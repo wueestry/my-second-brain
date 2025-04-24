@@ -27,29 +27,36 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#1e1e2e",
-          lightgray: "#313244",
-          gray: "#6c7086",
-          darkgray: "#a6adc8",
-          // dark: "#181825",
-          dark: "#cdd6f4",
-          secondary: "#89b4fa",
-          tertiary: "#a6e3a1",
-          highlight: "rgba(186, 194, 222, 0.15)",
-          textHighlight: "rgba(250, 179, 135, 0.2)",
+          light: "#1e1e2e", // base
+          lightgray: "#313244", // surface 0
+          gray: "#6c7086", // overlay 0
+          darkgray: "#a6adc8", // subtext 0
+          dark: "#cdd6f4", // text
+          secondary: "#89b4fa", // blue
+          tertiary: "#a6e3a1", // green
+          highlight: "rgba(186, 194, 222, 0.15)", // subtext 1
+          textHighlight: "rgba(250, 179, 135, 0.2)", // peach
+          // light: "#eff1f5",
+          // lightgray: "#ccd0da",
+          // gray: "#9ca0b0",
+          // darkgray: "#6c6f85",
+          // dark: "#4c4f69",
+          // secondary: "#1e66f5",
+          // tertiary: "#40a02b",
+          // highlight: "rgba(92, 95, 119, 0.15)",
+          // textHighlight: "rgba(254, 100, 11, 0.2)",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#1e1e2e", // base
+          lightgray: "#313244", // surface 0
+          gray: "#6c7086", // overlay 0
+          darkgray: "#a6adc8", // subtext 0
+          dark: "#cdd6f4", // text
+          secondary: "#89b4fa", // blue
+          tertiary: "#a6e3a1", // green
+          highlight: "rgba(186, 194, 222, 0.15)", // subtext 1
+          textHighlight: "rgba(250, 179, 135, 0.2)", // peach
         },
-
       },
     },
   },
@@ -69,7 +76,9 @@ const config: QuartzConfig = {
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
-      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
+      Plugin.CrawlLinks({
+        markdownLinkResolution: "shortest"
+      }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
