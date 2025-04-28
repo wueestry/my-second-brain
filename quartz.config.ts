@@ -68,8 +68,8 @@ const config: QuartzConfig = {
       }),
       Plugin.SyntaxHighlighting({
         theme: {
-          light: "github-light",
-          dark: "github-dark",
+          light: "catppuccin-mocha",  // "github-light",
+          dark: "catppuccin-mocha",  // "github-dark",
         },
         keepBackground: false,
       }),
