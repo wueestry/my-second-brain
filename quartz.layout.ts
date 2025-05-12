@@ -32,7 +32,12 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     // Component.Darkmode(),
     Component.DesktopOnly(
-      Component.Explorer()
+      Component.Explorer({
+        mapFn: (node) => {
+          node.displayName = node.displayName.toUpperCase();
+          return node;
+        },
+      })
     ),
   ],
   right: [
@@ -54,7 +59,14 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     // Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(
+      Component.Explorer({
+        mapFn: (node) => {
+          node.displayName = node.displayName.toUpperCase();
+          return node;
+        },
+      })
+    ),
   ],
   right: [],
 }
