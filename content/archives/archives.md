@@ -10,9 +10,6 @@
 
 ## By Last Modified
 
-<!-- QueryToSerialize: TABLE FROM "Archives" WHERE file.name != this.file.name SORT file.mtime DESC -->
-<!-- SerializedQuery: TABLE FROM "Archives" WHERE file.name != this.file.name SORT file.mtime DESC -->
-
 | File |
 | ---- |
-<!-- SerializedQuery END -->
+
