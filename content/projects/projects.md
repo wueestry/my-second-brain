@@ -10,9 +10,6 @@
 
 ## By Deadline
 
-<!-- QueryToSerialize: TABLE status as Status, deadline as Deadline, area as Area FROM #project WHERE contains(file.folder, this.file.folder) SORT deadline ASC -->
-<!-- SerializedQuery: TABLE status as Status, deadline as Deadline, area as Area FROM #project WHERE contains(file.folder, this.file.folder) SORT deadline ASC -->
-
 | File | Status | Deadline | Area |
 | ---- | ------ | -------- | ---- |
-<!-- SerializedQuery END -->
+
