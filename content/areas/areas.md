@@ -10,9 +10,6 @@
 
 ## By Alphabetical Order
 
-<!-- QueryToSerialize: TABLE tags as Tags FROM #area WHERE contains(file.folder, this.file.folder) SORT file.name ASC -->
-<!-- SerializedQuery: TABLE tags as Tags FROM #area WHERE contains(file.folder, this.file.folder) SORT file.name ASC -->
-
 | File | Tags |
 | ---- | ---- |
-<!-- SerializedQuery END -->
+
