@@ -53,6 +53,7 @@
 | [[resources/control-systems/linear-time-invariant-system\|linear-time-invariant-system]]                                        | resources/control-systems        |
 | [[resources/coding/cpp/list\|list]]                                                                                             | resources/coding/cpp             |
 | [[resources/control-systems/low-pass-filter\|low-pass-filter]]                                                                  | resources/control-systems        |
+| [[resources/coding/cpp/map\|map]]                                                                                               | resources/coding/cpp             |
 | [[resources/coding/markdown-syntax-highlighting\|markdown-syntax-highlighting]]                                                 | resources/coding                 |
 | [[resources/electrical-engineering/maxwells-equations\|maxwells-equations]]                                                     | resources/electrical-engineering |
 | [[resources/refereeing/mental-training-1-2024-09-16\|mental-training-1-2024-09-16]]                                             | resources/refereeing             |
