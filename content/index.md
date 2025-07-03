@@ -5,7 +5,7 @@
 
 # My second brain
 
-![[assets/matterhorn.png|500]]
+![[archives/assets/matterhorn.png|500]]
 
 Welcome to my second brain.
 My current second brain is organised using Thiago Forte's PARA method. Although not every private note is published online, here you can find a broad overview over my current note structure.
