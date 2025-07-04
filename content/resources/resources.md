@@ -37,6 +37,7 @@
 | [[resources/coding/c/const-keyword\|const-keyword]]                                                                             | resources/coding/c               |
 | [[resources/coding/cpp/datatypes\|datatypes]]                                                                                   | resources/coding/cpp             |
 | [[resources/robotics/depth-first-search\|depth-first-search]]                                                                   | resources/robotics               |
+| [[resources/coding/cpp/deque\|deque]]                                                                                           | resources/coding/cpp             |
 | [[resources/robotics/dijkstras-algorithm\|dijkstras-algorithm]]                                                                 | resources/robotics               |
 | [[resources/robotics/doppler-velocity-log\|doppler-velocity-log]]                                                               | resources/robotics               |
 | [[resources/robotics/dr-spaam\|dr-spaam]]                                                                                       | resources/robotics               |
