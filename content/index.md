@@ -1,26 +1,12 @@
 ---
-{"publish":true,"title":"Index","created":"2025-01-31","cssclasses":""}
+{"publish":true,"title":"My Second Brain","created":"2025-07-28","modified":"2025-08-04T13:56:21.950+02:00","cssclasses":"center-images center-titles"}
 ---
 
 
-# My second brain
+# MY SECOND BRAIN
+---
 
-![[archives/assets/matterhorn.png|500]]
+![[meta/assets/matterhorn.png|500]]
 
-Welcome to my second brain.
-My current second brain is organised using Thiago Forte's PARA method. Although not every private note is published online, here you can find a broad overview over my current note structure.
+Welcome to my second brain, a *zettelkasten* of my various interests, including but not limited to robotics, cyber security, programming, or ultra-distance running.
 
-## 🪴 My Current [[projects/projects\|Projects]]
-
-## 💡 My Current [[resources/resources\|Topics of Interest (Resources)]]
-
-- Robotics
-  - Navigation
-  - Control Systems
-- Programming
-- Books I've read with my own insights
-- Football refereeing
-
-## ⚛️ My Current [[areas/areas\|Spheres of Activities (Areas)]]
-
-## 📦 [[archives/archives\|Archive]] of my old Notes
