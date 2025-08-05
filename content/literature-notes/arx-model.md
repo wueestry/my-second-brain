@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"ARX Model","created":"2025-07-30 16:32","modified":"2025-07-31T16:42:37.190+02:00","tags":["resource"],"cssclasses":"center-images"}
+{"publish":true,"title":"ARX Model","created":"2025-07-30 16:32","modified":"2025-08-05T11:01:39.164+02:00","tags":["resource"],"cssclasses":"center-images"}
 ---
 
 
@@ -10,7 +10,7 @@
 >An ARX (Autoregressive with Exogenous inputs) model is a linear representation of a dynamic system in discrete time used to model and analyse the behaviour of dynamic systems.
 
 
-An ARX model combines an [[autoregressive model]](AR) and an [[exogenous input model]](X)
+An ARX model combines an [[autoregressive model]](AR) and an [[literature-notes/exogenous-input\|exogenous input model]](X)
 
 ## Equations
 
@@ -48,4 +48,5 @@ $$
 | File                                                               | Created          |
 | ------------------------------------------------------------------ | ---------------- |
 | [[literature-notes/autoregressive-model\|autoregressive-model]] | 2025-07-31 13:30 |
+| [[literature-notes/exogenous-input\|exogenous-input]]           | 2025-08-05 10:14 |
 
