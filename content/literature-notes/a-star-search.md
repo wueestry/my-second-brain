@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"A-Star Search","created":"2025-07-30 13:16","modified":"2025-07-31T16:42:31.011+02:00","tags":["resource"],"cssclasses":"center-images"}
+{"publish":true,"title":"A-Star Search","created":"2025-07-30 13:16","modified":"2025-08-05T10:49:27.107+02:00","tags":["resource"],"cssclasses":"center-images"}
 ---
 
 
@@ -17,6 +17,7 @@ It combines the best aspects of two other algorithms:
 - [[best-first-search\|Gready Best-First Search]]: Prefers exploration of nodes appearing closest to goal, based on a [[heuristic-function\|heuristic function]].
 
 The combination of these algorithms lead to a smart evaluation of paths using three key components: $g(n)$, $h(n)$ and $f(n)$.
+
 ![[meta/assets/a-star-heuristics-concept.png]]
 
 
