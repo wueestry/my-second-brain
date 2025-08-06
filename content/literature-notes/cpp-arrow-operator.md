@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The -> Operator","created":"2025-08-04 19:46","modified":"2025-08-04T19:58:15.439+02:00","tags":["#resource"],"cssclasses":"center-images"}
+{"publish":true,"title":"The -> Operator","created":"2025-08-04 19:46","modified":"2025-08-05T15:08:25.296+02:00","tags":["#resource","cpp"],"cssclasses":"center-images"}
 ---
 
 

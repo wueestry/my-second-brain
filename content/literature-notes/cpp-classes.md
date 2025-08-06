@@ -37,7 +37,6 @@ Use [[cpp-access-specifiers]\|Access Specifiers]] to define the access of the at
 | [[literature-notes/cpp-class-constructor\|cpp-class-constructor]] | 2025-08-04 13:27 |
 | [[literature-notes/cpp-inheritance\|cpp-inheritance]]             | 2025-08-04 13:43 |
 | [[literature-notes/cpp-methods\|cpp-methods]]                     | 2025-08-04 13:30 |
-| [[literature-notes/cpp-polymorphism\|cpp-polymorphism]]           | 2025-08-04 15:56 |
 
 
 

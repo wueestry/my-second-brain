@@ -60,8 +60,9 @@ class FooFoo : public Foo1, public Foo2 {
 ---
 ## Child Files
 
-| File | Created |
-| ---- | ------- |
+| File                                                                 | Created          |
+| -------------------------------------------------------------------- | ---------------- |
+| [[literature-notes/cpp-virtual-functions\|cpp-virtual-functions]] | 2025-08-04 19:38 |
 
 
 
