@@ -58,8 +58,9 @@ $$
 ---
 ## Child Files
 
-| File | Created |
-| ---- | ------- |
+| File                                                       | Created        |
+| ---------------------------------------------------------- | -------------- |
+| [[literature-notes/tustin-transform\|tustin-transform]] | 08 August 2024 |
 
 
 
