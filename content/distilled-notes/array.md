@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Array","created":"2025-07-29 09:47","modified":"2025-08-18T12:58:14.118+02:00","tags":["#resource","#cpp"],"cssclasses":"center-images"}
+{"publish":true,"title":"Array","created":"2025-07-29 09:47","modified":"2025-08-20T14:21:42.786+02:00","tags":["#resource","#cpp"],"cssclasses":"center-images"}
 ---
 
 
@@ -31,4 +31,4 @@ for (int i : foo) {
 
 ## References
 
-[[meta/references/stdarray reference manual]]
+[[meta/references/Cpp Std Array Reference]]

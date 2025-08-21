@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"DR-SPAAM","created":"2025-02-24 07:32","modified":"2025-08-18T12:58:14.458+02:00","tags":["#resource","#robotics"],"cssclasses":"center-images"}
+{"publish":true,"title":"DR-SPAAM","created":"2025-02-24 07:32","modified":"2025-08-20T11:36:58.657+02:00","tags":["#resource","#robotics"],"cssclasses":"center-images"}
 ---
 
 
@@ -33,4 +33,4 @@ A significant step forward in this task is achieved by introducing a mechanism t
 
 ## References
 
-[[meta/references/DR-SPAAM A Spatial-Attention and Auto-regressive Model for Person Detection in 2D Range Data]]
+[[meta/references/DR-SPAAM_ A Spatial-Attention and Auto-regressive Model for Person Detection in 2D Range Data]]

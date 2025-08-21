@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"A-Star Search","created":"2025-07-30 13:16","modified":"2025-08-18T12:58:14.109+02:00","tags":["resource"],"cssclasses":"center-images"}
+{"publish":true,"title":"A-Star Search","created":"2025-07-30 13:16","modified":"2025-08-20T11:09:20.329+02:00","tags":["resource"],"cssclasses":"center-images"}
 ---
 
 
@@ -83,5 +83,5 @@ A good heuristic function can drastically decrease $A^*$'s complexity.
 
 ## References
 
-[[meta/references/AI  Search Algorithms  A Search  Codecademy]]
+[[AI  Search Algorithms  A Search  Codecademy]]
 [[meta/references/The A Algorithm A Complete Guide]]

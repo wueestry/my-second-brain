@@ -1,75 +1,99 @@
 ---
-{"publish":true,"title":"Training the Gut for Ultramarathons","created":"2025-08-15 15:30","modified":"2025-08-18T12:58:14.513+02:00","tags":["#podcasts","#genai","#area"],"cssclasses":"center-images"}
+{"publish":true,"title":"Training the Gut for Ultramarathons | KoopCast #241","created":"2025-05-15","modified":"2025-08-21T11:51:16.287+02:00","tags":["#podcasts","#genai","#area"],"cssclasses":"center-images"}
 ---
 
 
-# TRAINING THE GUT FOR ULTRAMARATHONS
+# TRAINING THE GUT FOR ULTRAMARATHONS | KOOPCAST #241
 
 ---
 
 ![[meta/assets/koopcast.png|150]]
 
 > [!summary]
-> The podcast "Training the Gut for Ultramarathons with Isabel Martinez #241" focuses on the crucial topic of training the gut to tolerate and absorb more food during endurance activities, particularly ultramarathons, to combat gastrointestinal (GI) distress, which is a leading cause of athletes not finishing races (DNFing).
+> The podcast "Training the Gut for Ultramarathons with [[Isabel Martinez]] #241" explores how structured gut training can help ultramarathon runners improve their ability to tolerate and absorb carbohydrates, reducing gastrointestinal distress during races. 
+> It emphasizes personalized nutrition strategies, consistent practice of race day fueling, and working with professionals to optimize gut resilience and performance.
 
 ## Insights
 
-### Definition of Gut Training
+These insights provide a comprehensive overview of how ultramarathon runners can train their gut to improve nutrition tolerance and absorption, ultimately enhancing endurance performance and reducing the risk of GI distress.
 
-While many athletes think of gut training as simply practising race-day nutrition, it's actually a more structured, repetitive process aimed at achieving specific physiological adaptations beyond just what or how much you eat during training.
-It involves overloading the GI system to create compensatory mechanisms, similar to how other physiological systems are trained.
+### 1. Importance of Gut Training in Ultramarathons
 
-### Key Adaptations of Gut Training
+- **Gastrointestinal (GI) distress** is a leading cause of athletes not finishing ultramarathons.
 
-#### Stomach Capacity
+- Gut training helps improve the gut’s ability to tolerate and absorb food and fluids during long endurance events.
 
-Training the stomach to hold larger volumes of food and fluid without causing discomfort or sensations of fullness that stop fuel intake.
+- Training the gut can reduce GI symptoms and improve performance by enhancing nutrient delivery.
 
-#### Gastric Emptying Rate
+### 2. What is Gut Training?
 
-Facilitating the quicker movement of food from the stomach through the intestinal tract.
-However, current evidence on this specific adaptation is scarce and mainly from animal or rest studies, as exercise typically slows gut function.
+- Gut training involves **structured, repetitive exposure** to food and drink during training to adapt the stomach and intestines.
 
-#### Nutrient Absorption
+- The goal is to:
 
-Enhancing the gut's ability to absorb nutrients, especially carbohydrates, into the bloodstream for muscle use.
-Poor absorption can lead to GI symptoms as unabsorbed nutrients ferment and attract water.
+- Increase the stomach’s capacity to hold larger volumes comfortably.
 
-### Intervention Strategies
+- Improve gastric emptying rates (though evidence here is limited).
 
-Common proposed methods for gut training include:
+- Enhance carbohydrate absorption in the intestines.
 
-- **High Carbohydrate Intake**: This can involve a high-carb daily diet or, more commonly, consuming a high dose of carbohydrates during exercise.
-- **Training with a Full Stomach**: Exercising immediately after eating a meal.
-- **Repetitive Feeding Challenge**: Engaging in back-to-back training sessions with high carbohydrate intake during exercise.
-- **High Volume of Fluid/Carbohydrate Solutions**: Consuming large volumes of water or carbohydrate drinks. Merely drinking a lot of water without nutrients (placebo) does not yield gut training benefits.
-- **Practising Race Day Nutrition**: This serves as a dual purpose, both familiarising athletes with their race-day fuelling and overloading the GI system, especially if their race target is higher than typical training intake (e.g., 80-90 grams per hour).
+### 3. Most Trainable Aspects of the Gut
 
-### Duration and Frequency
+- The stomach’s ability to handle larger volumes and the intestine’s ability to absorb carbohydrates are the most trainable.
 
-For adaptations like improved absorption, a more chronic stimulus is needed, implying consistent high-carb intake even in shorter, easier sessions.
+- Gastric emptying is less understood due to difficulty in measurement.
 
-A seven-day straight protocol during the taper period before a race is suggested as a more feasible option for athletes than a two-week (five days straight, two days break) protocol.
+- Improving absorption is crucial because unabsorbed carbohydrates can cause GI distress.
 
-### Who Benefits from Gut Training
+### 4. Practical Implementation of Gut Training
 
-- Athletes who have previously struggled with fuelling or experienced recurrent GI issues during exercise.
-- Those who don't consume enough carbohydrates or use the wrong type.
-- Athletes aiming to maximize carbohydrate intake during races (e.g., targeting 90, 100, or even 120 grams per hour).
+- Athletes should **practice their race day nutrition** during training, including the type, amount, and timing of carbohydrate intake.
 
-#### Practical Implementation Challenges:
+- Typical carbohydrate intake goals are around **50-60 grams per hour**, but some athletes aim for higher (up to 90-120 grams per hour).
 
-- Cost of commercial products: Gels and other specialised nutrition products can be expensive.
-- Logistics and inconvenience: It can be cumbersome to carry and consume large quantities of fuel during runs.
-- Integration with Training: Gut training sessions need to be carefully integrated into an athlete's overall training program to avoid hindering other physiological adaptations.
-- Periodization: Long-term, non-periodized high-carb intake could lead to over-reliance on carbohydrates and potentially diminish fat-burning capacity.
+- Gut training should be done consistently, ideally **5 days a week for at least 2 weeks** or longer for more chronic adaptations.
 
-##### DIY Nutrition Products
+- Back-to-back gut training sessions (e.g., consecutive days) are effective for building gut resilience.
 
-Athletes can create their own gels and carbohydrate solutions using readily available bulk ingredients from grocery stores or online suppliers. This significantly reduces cost (e.g., potentially 20 cents per gel) and allows for customisation of taste, flavour, blend, and texture to suit individual preferences.
+### 5. Personalization and Assessment
+
+- Gut training should be personalized based on the athlete’s specific GI symptoms (upper gut vs. lower gut issues).
+
+- Not all athletes need gut training; those with an "iron gut" who tolerate high carbohydrate intake without issues may not benefit.
+
+- Working with a coach and sports dietitian is recommended to develop a customized gut training plan.
+
+### 6. Macronutrient Considerations
+
+- Most research focuses on carbohydrate-based gut training, as carbohydrates are the primary fuel in endurance events.
+
+- Some evidence suggests that including protein may also be beneficial, but this is less studied.
+
+- The form of carbohydrate (gels vs. solids) can impact absorption and gut symptoms.
+
+### 7. Challenges and Considerations
+
+- Gut training can be unpleasant and challenging, requiring discipline and planning.
+
+- The duration of gut training adaptations and how long they last after stopping training is still unclear.
+
+- Over-reliance on carbohydrate intake during training may affect metabolic flexibility, so periodization of nutrition is important.
+
+### 8. Practical Tips for Athletes
+
+- Start by identifying if you have gut issues during exercise.
+
+- Gradually increase carbohydrate and fluid intake during long runs to train stomach volume.
+
+- Use back-to-back sessions to improve carbohydrate absorption.
+
+- Mimic race day nutrition timing and composition during training.
+
+- Consult professionals to tailor gut training to your needs and avoid compromising overall training quality.
+
 
 ---
 
 ## References
 
-[[meta/references/Training the Gut for Ultramarathons with Isabel Martinez #241\|Training the Gut for Ultramarathons with Isabel Martinez #241]]
+[Spotify](https://open.spotify.com/episode/5Hb3kraedKJHdhSC7CizOU)

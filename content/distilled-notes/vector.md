@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Vector","created":"2025-07-29 16:12","modified":"2025-08-18T12:58:14.360+02:00","tags":["#resource"],"cssclasses":"center-images"}
+{"publish":true,"title":"Vector","created":"2025-07-29 16:12","modified":"2025-08-20T14:21:38.730+02:00","tags":["#resource"],"cssclasses":"center-images"}
 ---
 
 
@@ -33,4 +33,4 @@ The last element of the vector can be removed with `foo.pop_back()`.
 
 ## References
 
-[[meta/references/stdvector reference manual]]
+[[meta/references/Cpp Std Vector Reference]]
