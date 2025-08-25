@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Phase Margin","created":"2025-08-07 11:37","modified":"2025-08-18T13:01:12.308+02:00","tags":["#resource","#control-systems"],"cssclasses":"center-images"}
+{"publish":true,"title":"Phase Margin","created":"2025-08-07 11:37","modified":"2025-08-23T14:54:57.743+02:00","tags":["#resource","#control-systems"],"cssclasses":"center-images"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Doppler Velocity Log (DVL)","created":"2025-04-15 10:40","modified":"2025-08-18T13:01:19.314+02:00","tags":["#resource"],"cssclasses":"center-images"}
+{"publish":true,"title":"Doppler Velocity Log (DVL)","created":"2025-04-15 10:40","modified":"2025-08-23T14:54:57.803+02:00","tags":["#resource"],"cssclasses":"center-images"}
 ---
 
 

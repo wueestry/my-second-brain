@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Gain Margin","created":"2025-08-07 11:31","modified":"2025-08-18T13:01:15.075+02:00","tags":["#resource","#control-systems"],"cssclasses":"center-images"}
+{"publish":true,"title":"Gain Margin","created":"2025-08-07 11:31","modified":"2025-08-23T14:54:57.735+02:00","tags":["#resource","#control-systems"],"cssclasses":"center-images"}
 ---
 
 
