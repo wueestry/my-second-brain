@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"CMOS Power Formula","created":"2025-08-28 11:05","modified":"2025-08-28T16:09:22.423+02:00","tags":["#resource"],"cssclasses":"center-images"}
+{"publish":true,"title":"CMOS Power Formula","created":"2025-08-28 11:05","modified":"2025-09-03T15:30:06.282+02:00","tags":["#resource"],"cssclasses":"center-images"}
 ---
 
 
@@ -8,6 +8,7 @@
 ---
 
 The total power dissipation in a CMOS circuit is the sum of its static and dynamic power components
+
 $$
 P_{total} = P_{static} + P_{dynamic}
 $$
@@ -20,6 +21,7 @@ $$
 $$
 P_{dynamic} = \alpha C_{EFF} V_{DD}^2 f_{CLK}
 $$
+
 where $\alpha$ is the switching activity factor, $C_{EFF}$ the effective switched capacitance, $V_{DD}$ the supply voltage and $f_{CLK}$ the system clock frequency.
 
 ## Static Power Dissipation
@@ -30,8 +32,8 @@ where $\alpha$ is the switching activity factor, $C_{EFF}$ the effective switche
 $$
 P_{static} = I_{static}V_{DD}
 $$
-with $I_{static}$ being the static supply current (including leakage currents through reverse-biased PN-junctions and sub-threshold leakage)
 
+with $I_{static}$ being the static supply current (including leakage currents through reverse-biased PN-junctions and sub-threshold leakage)
 
 ---
 

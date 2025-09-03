@@ -1,67 +1,117 @@
 ---
-{"publish":true,"title":"Thinking Fast and Slow","created":"2025-09-01 16:17","modified":"2025-09-01T16:22:09.514+02:00","tags":["#book","#area"],"cssclasses":"center-images","socialImage":"http://books.google.com/books/content?id=ZuKTvERuPG8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"}
+{"publish":true,"title":"Thinking Fast and Slow","created":"2025-09-01 16:17","modified":"2025-09-03T15:30:06.766+02:00","tags":["#book","#area"],"cssclasses":"center-images","socialImage":"http://books.google.com/books/content?id=ZuKTvERuPG8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"}
 ---
 
 
-# THINKING FAST AND SLOW 
+# THINKING FAST AND SLOW
 
 ---
 
-> [!summary]
-> "Thinking, Fast and Slow" explores the dual-process model of the human mind, distinguishing between the fast, automatic, and intuitive System 1 and the slow, deliberate, and effortful System 2. The book reveals how these two systems interact to shape our judgments, decisions, and behaviours, often leading to cognitive biases and errors despite our confidence in rationality.
+![[meta/assets/thinking-fast-and-slow.jpg|150]]
 
+## Summary:
 
-## Two Systems: System 1 and System 2 (pp. 21–50)
+"Thinking, Fast and Slow" by [[Daniel Kahneman]] explores the dual-process model of Human cognition, distinguishing between two systems of thought: the fast, automatic, and intuitive System 1, and the slow, deliberate, and effortful System 2. The book examines how these systems interact to shape our judgments, decisions, and behaviours, often leading to cognitive biases and systematic errors despite our confidence in rationality. Kahneman delves into Heuristic, biases, overconfidence, and decision-making under risk, revealing the limitations of human intuition and the challenges of statistical thinking. The narrative also contrasts the experiencing self with the remembering self, highlighting how memory influences our choices and satisfaction. Ultimately, the book provides a comprehensive framework for understanding human thought processes and improving decision-making.
 
-- **System 1** operates automatically and quickly, generating impressions, feelings, and intuitive responses without conscious effort (pp. 21–30). It is responsible for everyday tasks like recognising faces, detecting hostility in voices, and making quick associations (pp. 30–40). 
-- **System 2** is slower, more deliberate, and requires effortful attention to perform complex mental activities such as logical reasoning, calculations, and self-control (pp. 40–50). It monitors and can override System 1 but is naturally lazy and often defaults to System 1’s suggestions to conserve mental energy (pp. 45–50).
+## Key Insights & Analysis:
 
-## Heuristics and Biases in Intuitive Judgement (pp. 51–120)
+### The Two Systems of Thinking: System 1 and System 2
 
-- People often substitute difficult questions with easier ones without realising, a process driven by System 1’s heuristics (pp. 60–70).
+#### Explanation:
 
-- Common biases include the availability heuristic, where people judge the likelihood of events based on how easily examples come to mind, and anchoring, where initial information unduly influences decisions (pp. 70–90).
+Daniel Kahneman introduces the foundational concept of two distinct cognitive systems: System 1 operates automatically and quickly, generating intuitive impressions and feelings without conscious effort, while System 2 is slower, more deliberate, and requires effortful attention for complex mental tasks. This distinction explains why much of our thinking is effortless yet prone to error, as System 2 often defaults to System 1’s intuitive responses to conserve mental energy. Understanding this interplay is crucial for recognising when and why cognitive biases occur.
 
-- The book highlights the difficulty humans have with statistical thinking, favouring causal and associative thinking instead, which leads to systematic errors (pp. 90–110).
+#### Page References:
 
-## Overconfidence and Illusions of Understanding (pp. 121–160)
+pp. 21–50
 
-- Humans tend to overestimate their knowledge and underestimate uncertainty, often falling prey to the illusion of understanding and the illusion of validity (pp. 125–140).
+#### Connect to Theme:
 
-- Expert intuition is reliable only when it results from prolonged practice in a stable environment; otherwise, it can be misleading (pp. 140–150).
+This insight underpins the entire book’s exploration of Human judgment and decision-making, framing the tension between intuition and reason.
 
-- The "outside view" is recommended to counteract overconfidence by considering broader statistical information rather than relying solely on personal intuition (pp. 150–160).
+### Heuristics and Biases in Intuitive Judgement
 
-## Prospect Theory and Decision Making Under Risk (pp. 161–210)
+#### Explanation:
 
-- [[Prospect Theory]] explains, how people evaluate potential gains and losses asymmetrically, showing loss aversion where losses loom larger than equivalent gains (pp. 165–180).
+The book details how System 1 relies on heuristics—mental shortcuts—that simplify complex problems but often lead to systematic biases such as availability, Anchoring effect, and substitution of difficult questions with easier ones. These Heuristic explain why people struggle with statistical reasoning and are prone to errors in judgment, especially when causal and associative thinking override statistical logic.
 
-- The endowment effect describes how ownership increases the perceived value of an object, influencing economic decisions (pp. 180–190).
+#### Page References:
 
-- People’s risk preferences vary depending on whether they face gains or losses, and rare events are often overweighted in decision-making (pp. 190–210).
+pp. 51–120
 
-## Attention, Effort, and Cognitive Control (pp. 211–250)
+#### Connect to Theme:
 
-- Mental effort is a limited resource; System 2’s capacity to focus attention is constrained and easily depleted, leading to reliance on System 1 (pp. 215–230).
+This insight reveals the inherent limitations of intuitive thinking and the frequent divergence between Human intuition and rational analysis.
 
-- Tasks requiring sustained attention or self-control cause physiological changes such as increased heart rate and pupil dilation, reflecting cognitive strain (pp. 230–240). 
-- The "law of least effort" explains why people prefer mental shortcuts and avoid demanding cognitive tasks unless motivated (pp. 240–250).
+### Overconfidence and the Illusion of Understanding
 
-## The Interaction Between Intuition and Reasoning (pp. 251–280)
+#### Explanation:
 
-- System 2 often acts as an apologist for System 1, constructing rationalisations for intuitive impressions and decisions (pp. 255–270).
+Daniel Kahneman discusses, how humans tend to overestimate their knowledge and underestimate uncertainty, leading to overconfidence and illusions of understanding and validity. This cognitive bias is exacerbated by hindsight and the human tendency to construct coherent narratives, which mask the role of chance and randomness in events. Recognising this overconfidence is vital for improving judgment and decision-making.
 
-- While System 2 can prevent some errors, it is not infallible and sometimes fails due to limited knowledge or laziness (pp. 270–280).
+#### Page References:
 
-- Recognising when to engage System 2 is crucial for improving judgement and avoiding costly mistakes (pp. 275–280).
+pp. 121–160
 
-## The Two Selves: Experiencing and Remembering (pp. 281–310)
+#### Connect to Theme:
 
-- The experiencing self lives in the present moment, while the remembering self evaluates experiences based on memory, often influenced by the peak-end rule and duration neglect (pp. 285–300).
+This insight highlights the psychological barriers to rationality and the challenges in acknowledging the limits of our knowledge.
 
-- This distinction explains why people sometimes make choices that do not maximise their moment-to-moment happiness but rather their remembered satisfaction (pp. 300–310).
+### Prospect Theory and Loss Aversion
 
+#### Explanation:
 
+The book introduces Prospect theory, which describes how Human evaluate potential gains and losses asymmetrically, with losses having a greater psychological impact than equivalent gains (Loss aversion). This theory explains many economic behaviours, including risk preferences and the Endowment effect, where ownership increases perceived value. Prospect Theory challenges classical economic assumptions of rational choice.
+
+#### Page References:
+
+pp. 161–210
+
+#### Connect to Theme:
+
+This insight bridges psychology and economics, illustrating how cognitive biases influence real-world decision-making under risk.
+
+### Attention, Effort, and the Law of Least Effort
+
+#### Explanation:
+
+Daniel Kahneman emphasises that mental effort is a limited resource, with System 2’s capacity for focused attention easily depleted, leading to reliance on the less demanding System 1. The "law of least effort" explains why Human prefer mental shortcuts and avoid cognitively demanding tasks unless motivated, which affects self-control and sustained attention. This dynamic is crucial for understanding why errors persist and how cognitive fatigue influences behaviour.
+
+#### Page References:
+
+pp. 211–250
+
+#### Connect to Theme:
+
+This insight elucidates the physiological and psychological constraints on deliberate thinking, reinforcing the interplay between cognitive capacity and decision quality.
+
+### The Interaction Between Intuition and Reasoning
+
+#### Explanation:
+
+The book explores how System 2 often acts as an apologist for System 1, rationalising intuitive impressions and decisions rather than critically evaluating them. While System 2 can override errors, it is not infallible and may fail due to laziness or limited knowledge. Recognising when to engage System 2 is essential for avoiding costly mistakes and improving judgment.
+
+#### Page References:
+
+pp. 251–280
+
+#### Connect to Theme:
+
+This insight highlights the complex relationship between intuition and reason, emphasising the need for vigilance and self-awareness in thinking.
+
+### The Two Selves: Experiencing Self vs. Remembering Self
+
+#### Explanation:
+
+Daniel Kahneman distinguishes between the experiencing self, which lives in the present moment, and the remembering self, which evaluates experiences based on memory, often influenced by the peak-end rule and Duration neglect. This distinction explains why Human sometimes make choices that do not maximise their moment-to-moment happiness but rather their remembered satisfaction, affecting decision-making in life and policy.
+
+#### Page References:
+
+pp. 281–310
+
+#### Connect to Theme:
+
+This insight deepens the understanding of human happiness and choice, revealing the complexities of subjective experience and memory.
 
 ---
 
