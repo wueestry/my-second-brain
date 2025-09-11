@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Inheritance","created":"2025-08-04 13:43","modified":"2025-08-18T12:58:14.177+02:00","tags":["#resource"],"cssclasses":"center-images"}
+{"publish":true,"title":"Inheritance","created":"2025-08-04 13:43","modified":"2025-09-10T09:07:11.305+02:00","tags":["#resource"],"cssclasses":"center-images"}
 ---
 
 
@@ -7,8 +7,7 @@
 
 ---
 
-> [!abstract]
-> Inheritance allows one class to reuse attributes and [[distilled-notes/methods\|methods]] from another class.
+Inheritance allows one class to reuse attributes and [[distilled-notes/methods\|methods]] from another class.
 
 ## Derived Class
 
