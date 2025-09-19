@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Exogenous Model","created":"2025-08-05 10:14","modified":"2025-08-18T12:58:14.202+02:00","tags":["resource"],"cssclasses":"center-images"}
+{"publish":true,"title":"Exogenous Model","created":"2025-08-05 10:14","modified":"2025-09-17T12:43:49.842+02:00","tags":["statistical-model","resource","time-series","exogenous-variables","prediction","mathematical-modeling"],"cssclasses":"center-images"}
 ---
 
 

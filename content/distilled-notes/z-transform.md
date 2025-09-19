@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Z-Transform","created":"2025-08-05 11:02","modified":"2025-08-18T12:58:14.368+02:00","tags":["resource"],"cssclasses":"center-images"}
+{"publish":true,"title":"Z-Transform","created":"2025-08-05 11:02","modified":"2025-09-17T12:43:49.879+02:00","tags":["mathematics","signal-processing","resource","fourier-transform","laplace-transform","z-transform","discrete-time","complex-analysis"],"cssclasses":"center-images"}
 ---
 
 

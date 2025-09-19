@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Vim Motions","created":"2025-03-30 16:18","modified":"2025-08-18T12:58:14.525+02:00","tags":["#resource"],"cssclasses":"center-images"}
+{"publish":true,"title":"Vim Motions","created":"2025-03-30 16:18","modified":"2025-09-17T07:13:03.946+02:00","tags":["markdown","terminal","productivity","editor","text-editing","coding"],"cssclasses":"center-images"}
 ---
 
 

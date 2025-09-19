@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The Rise of the Ultra Runners A Journey to the Edge of Human Endurance","created":"2025-04-14","modified":"2025-09-03T09:07:35.855+02:00","tags":["#book","#area","#genai"],"cssclasses":"center-images","socialImage":"http://books.google.com/books/content?id=mqOGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"}
+{"publish":true,"title":"The Rise of the Ultra Runners A Journey to the Edge of Human Endurance","created":"2025-04-14T00:00:00.000Z","modified":"2025-09-17T07:12:00.161+02:00","tags":["psychology","running","self-improvement","sports-journalism","human-performance","community","book","endurance-sport","ultrarunning"],"cssclasses":"center-images","socialImage":"http://books.google.com/books/content?id=mqOGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"}
 ---
 
 

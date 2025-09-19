@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Robotic Operating System","created":"2025-02-18 13:45","modified":"2025-08-18T12:58:14.324+02:00","tags":["#resource"],"cssclasses":""}
+{"publish":true,"title":"Robotic Operating System","created":"2025-02-18 13:45","modified":"2025-09-17T12:43:49.853+02:00","tags":["robotics","resource","computer-science","embedded-systems","algorithms","data-structures","programming","ros"],"cssclasses":""}
 ---
 
 

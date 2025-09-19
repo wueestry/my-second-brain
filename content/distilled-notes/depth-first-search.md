@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Depth-First Search","created":"2024-09-17 16:16","modified":"2025-08-18T12:58:14.184+02:00","tags":["#resource"],"cssclasses":"center-images"}
+{"publish":true,"title":"Depth-First Search","created":"2024-09-17 16:16","modified":"2025-09-17T12:43:49.879+02:00","tags":["resource","graph-theory","algorithms","programming","science","computer-science","search-algorithm","graph-traversal"],"cssclasses":"center-images"}
 ---
 
 

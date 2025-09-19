@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Quantum Security The One Thing No One's Preparing For","created":"2025-09-03 21:01","modified":"2025-09-03T21:03:26.487+02:00","tags":["#youtube"],"cssclasses":"center-images"}
+{"publish":true,"title":"Quantum Security The One Thing No One's Preparing For","created":"2025-09-03 21:01","modified":"2025-09-17T07:05:09.274+02:00","tags":["science","cybersecurity","cryptography","geopolitics","post-quantum-cryptography","youtube","quantum-computing"],"cssclasses":"center-images"}
 ---
 
 

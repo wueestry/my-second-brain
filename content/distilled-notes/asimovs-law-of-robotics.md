@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Asimov's law of robotics","created":"2025-07-31 08:41","modified":"2025-08-18T12:58:14.127+02:00","tags":["resource"],"cssclasses":"center-images"}
+{"publish":true,"title":"Asimov's law of robotics","created":"2025-07-31 08:41","modified":"2025-09-17T12:43:49.880+02:00","tags":["robotics","science","resource","artificial-intelligence","isaac-asimov","ethics","fiction","automation"],"cssclasses":"center-images"}
 ---
 
 

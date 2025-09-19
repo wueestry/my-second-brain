@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Kalman Filter","created":"2024-08-30","modified":"2025-08-18T12:58:14.230+02:00","tags":["#resource"],"cssclasses":"center-images"}
+{"publish":true,"title":"Kalman Filter","created":"2024-08-30T00:00:00.000Z","modified":"2025-09-17T12:35:43.580+02:00","tags":["resource","recursive","mathematical-modeling","data-structures","algorithms","statistical-model","control-engineering","dynamic-systems"],"cssclasses":"center-images"}
 ---
 
 

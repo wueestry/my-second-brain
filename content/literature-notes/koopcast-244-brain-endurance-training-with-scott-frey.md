@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Brain Endurance Training with Scott Frey, PhD | KoopCast #244","created":"2025-08-21 09:11","modified":"2025-09-03T15:30:06.682+02:00","tags":["#podcasts","#area","#genai"],"cssclasses":"center-images"}
+{"publish":true,"title":"Brain Endurance Training with Scott Frey, PhD | KoopCast #244","created":"2025-08-21 09:11","modified":"2025-09-17T07:03:20.437+02:00","tags":["learning","science","performance-enhancement","mental-fatigue","neuroplasticity","podcasts","brain-training"],"cssclasses":"center-images"}
 ---
 
 

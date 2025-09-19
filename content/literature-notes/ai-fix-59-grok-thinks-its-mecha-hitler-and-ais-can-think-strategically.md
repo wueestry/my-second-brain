@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Grok thinks it's Mecha Hitler and AI's can think strategically | AI Fix #59","created":"2025-09-03 17:08","modified":"2025-09-03T17:20:40.537+02:00","tags":["#podcasts"],"cssclasses":"center-images"}
+{"publish":true,"title":"Grok thinks it's Mecha Hitler and AI's can think strategically | AI Fix #59","created":"2025-09-03 17:08","modified":"2025-09-17T06:53:16.570+02:00","tags":["claude","genai","elon-musk","podcasts","ai-ethics"],"cssclasses":"center-images"}
 ---
 
 

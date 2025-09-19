@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Training the Gut for Ultramarathons with Isabel Martinez | KoopCast #241","created":"2025-05-15","modified":"2025-09-03T15:30:06.673+02:00","tags":["#podcasts","#genai","#area"],"cssclasses":"center-images"}
+{"publish":true,"title":"Training the Gut for Ultramarathons with Isabel Martinez | KoopCast #241","created":"2025-05-15T00:00:00.000Z","modified":"2025-09-17T07:02:09.351+02:00","tags":["running","fitness","performance-enhancement","nutrition","endurance","podcasts","ultrarunning"],"cssclasses":"center-images"}
 ---
 
 

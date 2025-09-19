@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Notch Filter","created":"2024-08-08","modified":"2025-08-18T12:58:14.277+02:00","tags":["#resource"],"cssclasses":"center-images"}
+{"publish":true,"title":"Notch Filter","created":"2024-08-08T00:00:00.000Z","modified":"2025-09-17T12:37:23.857+02:00","tags":["resource","control-systems","filter-design","signal-processing","electrical-engineering","frequency-domain"],"cssclasses":"center-images"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"A Complete Beginner's Guide to Financial Freedom","created":"2025-09-03 08:31","modified":"2025-09-03T17:20:50.220+02:00","tags":["#youtube"],"cssclasses":"center-images"}
+{"publish":true,"title":"A Complete Beginner's Guide to Financial Freedom","created":"2025-09-03 08:31","modified":"2025-09-17T06:37:54.679+02:00","tags":["financial-freedom","financial-independence","ali-abdaal","skill-acquisition","4-s-framework"],"cssclasses":"center-images"}
 ---
 
 

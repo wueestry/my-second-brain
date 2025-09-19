@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Open Loop Control","created":"2024-08-20","modified":"2025-08-18T12:58:14.288+02:00","tags":["#resource"],"cssclasses":"center-images"}
+{"publish":true,"title":"Open Loop Control","created":"2024-08-20T00:00:00.000Z","modified":"2025-09-17T12:43:49.842+02:00","tags":["resource","control-systems","open-loop","control-engineering","feedback","automation"],"cssclasses":"center-images"}
 ---
 
 

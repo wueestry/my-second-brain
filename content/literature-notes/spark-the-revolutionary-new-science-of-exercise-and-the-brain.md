@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Spark: The Revolutionary New Science of Exercise and the Brain","created":"2024-08-26","modified":"2025-09-03T09:22:18.587+02:00","tags":["#book","#area","#genai"],"cssclasses":"center-images","socialImage":"http://books.google.com/books/content?id=p3WyoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"}
+{"publish":true,"title":"Spark: The Revolutionary New Science of Exercise and the Brain","created":"2024-08-26T00:00:00.000Z","modified":"2025-09-17T07:08:04.032+02:00","tags":["science","learning","performance-enhancement","brain-training","neuroscience","mental-health","book","exercising"],"cssclasses":"center-images","socialImage":"http://books.google.com/books/content?id=p3WyoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"}
 ---
 
 

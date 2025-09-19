@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"An AI runs a shop into the ground, and AI's obsession with the number 27 | AI Fix #58","created":"2025-08-22 19:58","modified":"2025-09-03T15:30:06.574+02:00","tags":["#genai","#podcasts","#resource"],"cssclasses":"center-images"}
+{"publish":true,"title":"An AI runs a shop into the ground, and AI's obsession with the number 27 | AI Fix #58","created":"2025-08-22 19:58","modified":"2025-09-17T06:53:10.720+02:00","tags":["podcasts","claude","genai","ai-ethics"],"cssclasses":"center-images"}
 ---
 
 
