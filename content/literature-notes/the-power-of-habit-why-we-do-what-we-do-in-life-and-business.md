@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The Power of Habit: Why We Do What We Do in Life and Business","created":"2025-08-28 07:38","modified":"2025-09-03T09:52:56.600+02:00","tags":["#book","#area"],"cssclasses":"center-images","socialImage":"http://books.google.com/books/content?id=syiPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"}
+{"publish":true,"title":"The Power of Habit: Why We Do What We Do in Life and Business","created":"2025-08-28 07:38","modified":"2025-09-17T07:10:27.080+02:00","tags":["learning","personal-knowledge-management","habit-formation","self-improvement","psychology","business-strategy","book","behavioral-science"],"cssclasses":"center-images","socialImage":"http://books.google.com/books/content?id=syiPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"DR-SPAAM","created":"2025-02-24 07:32","modified":"2025-08-20T11:36:58.657+02:00","tags":["#resource","#robotics"],"cssclasses":"center-images"}
+{"publish":true,"title":"DR-SPAAM","created":"2025-02-24 07:32","modified":"2025-09-17T06:59:49.832+02:00","tags":["person-detection","computer-vision","robotics","lidar"],"cssclasses":"center-images"}
 ---
 
 

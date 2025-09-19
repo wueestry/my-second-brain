@@ -1,0 +1,39 @@
+---
+{"publish":true,"title":"Enumerator in C++","created":"2025-05-22 13:32","modified":"2025-09-19T07:19:35.055+02:00","tags":["#resource","#coding","#cpp","#enums","#data-types","#initialization"],"cssclasses":"center-images"}
+---
+
+
+# ENUMERATOR IN C++
+
+---
+
+An **enum** or Enumerator is a special type that represents a group of constants (unchangeable values).
+
+## Initialisation
+
+```cpp
+enum Level {
+  LOW,
+  MEDIUM,
+  HIGH
+};
+
+enum Level myVar = MEDIUM;
+```
+
+## Change Values
+
+```cpp
+enum Level {
+  LOW = 25,
+  MEDIUM = 50,
+  HIGH = 75
+};
+
+enum Level myVar = MEDIUM;
+cout << myVar;  // Now outputs 50
+```
+
+---
+
+## References

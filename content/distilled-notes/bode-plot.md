@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Bode Plot","created":"2025-07-31 16:23","modified":"2025-08-18T12:58:14.149+02:00","tags":["resource","#control-systems"],"cssclasses":"center-images"}
+{"publish":true,"title":"Bode Plot","created":"2025-07-31 16:23","modified":"2025-09-17T12:43:49.880+02:00","tags":["resource","control-systems","electrical-engineering","stability","feedback-systems","signal-processing","dynamic-systems","frequency-response"],"cssclasses":"center-images"}
 ---
 
 

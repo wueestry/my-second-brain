@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Heuristic Function","created":"2025-08-06 19:52","modified":"2025-08-18T12:58:14.220+02:00","tags":["#resource"],"cssclasses":"center-images"}
+{"publish":true,"title":"Heuristic Function","created":"2025-08-06 19:52","modified":"2025-09-17T12:37:16.121+02:00","tags":["resource","heuristics","algorithms","search-algorithm","science","computer-science","pathfinding","ai-search"],"cssclasses":"center-images"}
 ---
 
 
@@ -16,5 +16,5 @@
 
 ## References
 
-[[meta/references/AI  Search Algorithms  A Search  Codecademy]]
+[[AI  Search Algorithms  A Search  Codecademy]]
 [[meta/references/The A Algorithm A Complete Guide]]

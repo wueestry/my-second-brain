@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Digital Forensics","created":"2025-08-23 15:37","modified":"2025-09-10T08:42:33.226+02:00","tags":["resource"],"cssclasses":"center-images"}
+{"publish":true,"title":"Digital Forensics","created":"2025-08-23 15:37","modified":"2025-09-17T12:43:49.842+02:00","tags":["resource","cybersecurity","computer-science","algorithms","science","digital-evidence","incident-response","data-recovery"],"cssclasses":"center-images"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Integral control","created":"2025-08-06 16:36","modified":"2025-08-18T12:58:14.226+02:00","tags":["#resource"],"cssclasses":"center-images"}
+{"publish":true,"title":"Integral control","created":"2025-08-06 16:36","modified":"2025-09-17T12:43:49.842+02:00","tags":["resource","control-engineering","control-systems","derivative-control","proportional-control","integral-control","pid-control","error-correction"],"cssclasses":"center-images"}
 ---
 
 

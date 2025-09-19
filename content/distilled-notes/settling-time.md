@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Settling Time","created":"2024-08-09","modified":"2025-08-18T12:58:14.331+02:00","tags":["#resource"],"cssclasses":"center-images"}
+{"publish":true,"title":"Settling Time","created":"2024-08-09T00:00:00.000Z","modified":"2025-09-17T12:43:49.879+02:00","tags":["resource","control-engineering","control-systems","step-response","time-domain","system-response"],"cssclasses":"center-images"}
 ---
 
 

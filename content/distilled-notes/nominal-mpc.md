@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Nominal MPC","created":"2025-04-01 16:24","modified":"2025-08-18T12:58:14.272+02:00","tags":["resource"],"cssclasses":"center-images"}
+{"publish":true,"title":"Nominal MPC","created":"2025-04-01 16:24","modified":"2025-09-17T12:38:03.531+02:00","tags":["control-engineering","control-systems","optimization","algorithms","mathematics","model-predictive-control","control-engineering","linear-systems"],"cssclasses":"center-images"}
 ---
 
 

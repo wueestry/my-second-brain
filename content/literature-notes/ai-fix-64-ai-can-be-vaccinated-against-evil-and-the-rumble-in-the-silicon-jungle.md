@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"AI can be vaccinated against evil and the \"Rumble in the Silicon Jungle\" | AI Fix #64","created":"2025-08-22 19:42","modified":"2025-09-03T15:30:06.607+02:00","tags":["#genai","#resource","#podcasts"],"cssclasses":"center-images"}
+{"publish":true,"title":"AI can be vaccinated against evil and the \"Rumble in the Silicon Jungle\" | AI Fix #64","created":"2025-08-22 19:42","modified":"2025-09-17T06:53:47.659+02:00","tags":["genai","podcasts"],"cssclasses":"center-images"}
 ---
 
 
