@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Ziegler-Nichols Method","created":"2025-08-05 10:49","modified":"2025-08-18T12:58:14.375+02:00","tags":["resource"],"cssclasses":"center-images"}
+{"publish":true,"title":"Ziegler-Nichols Method","created":"2025-08-05 10:49","modified":"2025-09-17T12:38:24.083+02:00","tags":["pid-control","control-engineering","control-systems","tuning","control-loop","transfer-function","mathematics","resource"],"cssclasses":"center-images"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Sapiens: A Brief History of Humankind","created":"2025-08-18 19:57","modified":"2025-09-03T15:30:06.718+02:00","tags":["#book","#area"],"cssclasses":"center-images","socialImage":"http://books.google.com/books/content?id=zfuOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"}
+{"publish":true,"title":"Sapiens: A Brief History of Humankind","created":"2025-08-18 19:57","modified":"2025-09-17T07:06:20.960+02:00","tags":["history","sociology","anthropology","cognitive-science","book","human-history"],"cssclasses":"center-images","socialImage":"http://books.google.com/books/content?id=zfuOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"}
 ---
 
 

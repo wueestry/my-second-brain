@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Deep Work: Rules for Focused Success in a Distracted World","created":"2025-08-23 14:24","modified":"2025-09-03T09:30:13.728+02:00","tags":["#book","#area"],"cssclasses":"center-images","socialImage":"http://books.google.com/books/content?id=lZpFCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"}
+{"publish":true,"title":"Deep Work: Rules for Focused Success in a Distracted World","created":"2025-08-23 14:24","modified":"2025-09-17T06:58:54.033+02:00","tags":["learning","focus","book","productivity"],"cssclasses":"center-images","socialImage":"http://books.google.com/books/content?id=lZpFCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"}
 ---
 
 

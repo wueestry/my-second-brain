@@ -1,13 +1,13 @@
 ---
-{"publish":true,"title":"Inheritance","created":"2025-08-04 13:43","modified":"2025-09-10T09:07:11.305+02:00","tags":["#resource"],"cssclasses":"center-images"}
+{"publish":true,"title":"Inheritance in C++","created":"2025-08-04 13:43","modified":"2025-09-19T07:21:56.450+02:00","tags":["#resource","#class","#programming","#object-oriented-programming","#inheritance","#cpp","#data-structures","#algorithms"],"cssclasses":"center-images"}
 ---
 
 
-# INHERITANCE
+# INHERITANCE IN C++
 
 ---
 
-Inheritance allows one class to reuse attributes and [[distilled-notes/methods\|methods]] from another class.
+Inheritance allows one class to reuse attributes and [[distilled-notes/cpp-methods\|cpp-methods]] from another class.
 
 ## Derived Class
 
@@ -57,9 +57,9 @@ class FooFoo : public Foo1, public Foo2 {
 
 ## Child Files
 
-| File                                                        | Created          |
-| ----------------------------------------------------------- | ---------------- |
-| [[distilled-notes/virtual-functions\|virtual-functions]] | 2025-08-04 19:38 |
+| File                                                                | Created          |
+| ------------------------------------------------------------------- | ---------------- |
+| [[distilled-notes/cpp-virtual-functions\|cpp-virtual-functions]] | 2025-08-04 19:38 |
 
 
 ## Parent Files

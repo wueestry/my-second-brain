@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Born to Run: A Hidden Tribe, Superathletes and the Greatest Race the World has ever seen","created":"2024-08-30","modified":"2025-09-03T15:30:06.638+02:00","tags":["#book","#area","#genai"],"cssclasses":"center-images","socialImage":"http://books.google.com/books/content?id=4gS_0UwVI34C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"}
+{"publish":true,"title":"Born to Run: A Hidden Tribe, Superathletes and the Greatest Race the World has ever seen","created":"2024-08-30T00:00:00.000Z","modified":"2025-09-17T06:55:22.492+02:00","tags":["learning","science","ultrarunning","book","running"],"cssclasses":"center-images","socialImage":"http://books.google.com/books/content?id=4gS_0UwVI34C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"}
 ---
 
 

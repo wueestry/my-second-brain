@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)","created":"2025-08-23 14:33","modified":"2025-09-03T09:51:47.317+02:00","tags":["#book","#area"],"cssclasses":"center-images","socialImage":"http://books.google.com/books/content?id=Sb1iAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"}
+{"publish":true,"title":"A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)","created":"2025-08-23 14:33","modified":"2025-09-17T06:46:00.851+02:00","tags":["math","science","learning","BarbaraOakley","STEM","book"],"cssclasses":"center-images","socialImage":"http://books.google.com/books/content?id=Sb1iAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"}
 ---
 
 

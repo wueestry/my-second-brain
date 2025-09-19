@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Oracle's CSO Mary Ann Davidson quietly departs | Risky Business #803","created":"2025-08-22 19:24","modified":"2025-09-03T15:30:06.706+02:00","tags":["#resource"],"cssclasses":"center-images"}
+{"publish":true,"title":"Oracle's CSO Mary Ann Davidson quietly departs | Risky Business #803","created":"2025-08-22 19:24","modified":"2025-09-17T07:05:40.083+02:00","tags":["podcasts","privacy","financial-crime","data-breach","legacy-systems","cybersecurity","oracle"],"cssclasses":"center-images"}
 ---
 
 

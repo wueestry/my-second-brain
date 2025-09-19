@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Cauchy's Argument Principle","created":"2025-08-05 09:42","modified":"2025-08-18T12:58:14.161+02:00","tags":["#resource"],"cssclasses":"center-images"}
+{"publish":true,"title":"Cauchy's Argument Principle","created":"2025-08-05 09:42","modified":"2025-09-17T12:43:49.880+02:00","tags":["resource","mathematical-modeling","science","graph-theory","complex-analysis","contour-integration","theorem","logarithmic-derivative"],"cssclasses":"center-images"}
 ---
 
 

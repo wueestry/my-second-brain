@@ -21,7 +21,7 @@ Welcome to my second brain, a _Zettelkasten_ of my various interests, including 
     at asyncEvalInContext (plugin:dataview:25205:28)
     at DataviewJSRenderer.render (plugin:dataview:25234:13)
     at DataviewJSRenderer.onload (plugin:dataview:24676:10)
-    at e.load (app://obsidian.md/app.js:1:1182416)
+    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1182416)
     at DataviewApi.executeJs (plugin:dataview:25834:14)
     at tryExecuteJs (plugin:quartz-syncer:19764:15)
     at eval (plugin:quartz-syncer:19678:38)

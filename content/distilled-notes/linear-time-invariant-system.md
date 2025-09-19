@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Linear Time-Invariant System","created":"2024-08-13","modified":"2025-08-18T12:58:14.237+02:00","tags":["#resource"],"cssclasses":"center-images"}
+{"publish":true,"title":"Linear Time-Invariant System","created":"2024-08-13T00:00:00.000Z","modified":"2025-09-17T12:36:59.086+02:00","tags":["resource","mathematics","control-engineering","signal-processing","system-identification","linear-systems","convolution","impulse-response"],"cssclasses":"center-images"}
 ---
 
 

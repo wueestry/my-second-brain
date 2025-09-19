@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"PID Control","created":"2024-08-14","modified":"2025-08-18T12:58:14.298+02:00","tags":["resource"],"cssclasses":"center-images"}
+{"publish":true,"title":"PID Control","created":"2024-08-14T00:00:00.000Z","modified":"2025-09-17T12:43:49.842+02:00","tags":["resource","control-engineering","control-systems","derivative-control","integral-control","proportional-control","pid-control","transfer-function"],"cssclasses":"center-images"}
 ---
 
 

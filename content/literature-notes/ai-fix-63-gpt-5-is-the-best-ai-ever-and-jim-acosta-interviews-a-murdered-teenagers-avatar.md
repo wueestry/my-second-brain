@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"GPT-5 is the best AI ever, and Jim Acosta interviews a murdered teenager's avatar | AI Fix #63","created":"2025-08-21 09:27","modified":"2025-09-03T15:30:06.596+02:00","tags":["#podcasts","#area","#genai"],"cssclasses":"center-images"}
+{"publish":true,"title":"GPT-5 is the best AI ever, and Jim Acosta interviews a murdered teenager's avatar | AI Fix #63","created":"2025-08-21 09:27","modified":"2025-09-17T06:53:42.214+02:00","tags":["genai","science","digital-memorials","podcasts","ai-ethics"],"cssclasses":"center-images"}
 ---
 
 

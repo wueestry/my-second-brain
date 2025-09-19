@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Laplace Transform","created":"2024-08-12","modified":"2025-08-18T12:58:14.234+02:00","tags":["#resource"],"cssclasses":"center-images"}
+{"publish":true,"title":"Laplace Transform","created":"2024-08-12T00:00:00.000Z","modified":"2025-09-17T12:43:49.842+02:00","tags":["resource","integral-transform","signal-processing","mathematical-modeling","science","computer-science","mathematics","laplace-transform"],"cssclasses":"center-images"}
 ---
 
 
