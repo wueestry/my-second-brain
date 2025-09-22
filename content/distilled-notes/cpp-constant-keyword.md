@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Constant Keyword in C++","created":"2025-08-05 10:19","modified":"2025-09-19T07:17:34.516+02:00","tags":["#cpp","#programming","#resource","#constant","#type-qualifier","#read-only","#data-types"],"cssclasses":"center-images"}
+{"publish":true,"title":"Constant Keyword in C++","created":"2025-08-05 10:19","modified":"2025-09-22T10:30:53.914+02:00","tags":["#cpp","#programming","#constant","#type-qualifier","#read-only","#data-types"],"cssclasses":"center-images"}
 ---
 
 

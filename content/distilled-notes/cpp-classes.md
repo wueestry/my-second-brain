@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Classes in C++","created":"2025-08-04 12:56","modified":"2025-09-19T07:20:39.955+02:00","tags":["#resource","#coding","#cpp","#object-oriented-programming","#class","#initialization","#inheritance"],"cssclasses":"center-images"}
+{"publish":true,"title":"Classes in C++","created":"2025-08-04 12:56","modified":"2025-09-22T10:30:50.372+02:00","tags":["#coding","#cpp","#object-oriented-programming","#class","#initialization","#inheritance"],"cssclasses":"center-images"}
 ---
 
 

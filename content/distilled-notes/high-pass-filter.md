@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"High-Pass Filter","created":"2024-08-08T00:00:00.000Z","modified":"2025-09-17T12:43:49.842+02:00","tags":["resource","control-engineering","signal-processing","control-systems","mathematical-modeling","science","algorithms","filter-design"],"cssclasses":"center-images"}
+{"publish":true,"title":"High-Pass Filter","created":"2024-08-08T00:00:00.000Z","modified":"2025-09-22T10:32:01.979+02:00","tags":["#control-engineering","#signal-processing","#control-systems","#mathematical-modeling","#science","#algorithms","#filter-design"],"cssclasses":"center-images"}
 ---
 
 

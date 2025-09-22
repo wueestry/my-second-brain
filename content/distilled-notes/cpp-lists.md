@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Lists in C++","created":"2025-06-04 11:24","modified":"2025-09-19T07:23:30.314+02:00","tags":["#cpp","#data-structures","#programming","#resource","#lists","#cpp-lists","#stl","#data-types"],"cssclasses":"center-images"}
+{"publish":true,"title":"Lists in C++","created":"2025-06-04 11:24","modified":"2025-09-22T10:31:06.060+02:00","tags":["#cpp","#data-structures","#programming","#lists","#cpp-lists","#stl","#data-types"],"cssclasses":"center-images"}
 ---
 
 

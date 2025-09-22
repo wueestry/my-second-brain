@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Heuristics","created":"2024-10-01 15:01","modified":"2025-09-17T12:43:49.842+02:00","tags":["resource","heuristic","algorithms","computer-science","science","mathematical-modeling","search-algorithm","optimization"],"cssclasses":"center-images"}
+{"publish":true,"title":"Heuristics","created":"2024-10-01 15:01","modified":"2025-09-22T10:32:00.268+02:00","tags":["#heuristic","#algorithms","#computer-science","#science","#mathematical-modeling","#search-algorithm","#optimization"],"cssclasses":"center-images"}
 ---
 
 

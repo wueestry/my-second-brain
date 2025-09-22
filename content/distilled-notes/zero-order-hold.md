@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Zero-Order Hold","created":"2025-08-05 10:53","modified":"2025-09-17T12:35:50.785+02:00","tags":["resource","linear-time-invariant-system","z-transform","control-engineering","control-systems","mathematics","signal-processing","transfer-function"],"cssclasses":"center-images"}
+{"publish":true,"title":"Zero-Order Hold","created":"2025-08-05 10:53","modified":"2025-09-22T10:32:59.848+02:00","tags":["#linear-time-invariant-system","#z-transform","#control-engineering","#control-systems","#mathematics","#signal-processing","#transfer-function"],"cssclasses":"center-images"}
 ---
 
 

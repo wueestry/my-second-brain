@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Maxwell's Equations","created":"2025-03-25 12:39","modified":"2025-09-17T12:43:49.842+02:00","tags":["resource","mathematics","science","algorithms","physics","electromagnetism","differential-equations","field-theory"],"cssclasses":"center-images"}
+{"publish":true,"title":"Maxwell's Equations","created":"2025-03-25 12:39","modified":"2025-09-22T10:32:16.710+02:00","tags":["#mathematics","#science","#algorithms","#physics","#electromagnetism","#differential-equations","#field-theory"],"cssclasses":"center-images"}
 ---
 
 

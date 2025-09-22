@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Tustin Transform","created":"2024-08-08T00:00:00.000Z","modified":"2025-09-17T12:35:50.076+02:00","tags":["resource","control-engineering","control-systems","discrete-time","signal-processing","transfer-function","mathematics","system-response"],"cssclasses":"center-images"}
+{"publish":true,"title":"Tustin Transform","created":"2024-08-08T00:00:00.000Z","modified":"2025-09-22T10:32:54.138+02:00","tags":["#control-engineering","#control-systems","#discrete-time","#signal-processing","#transfer-function","#mathematics","#system-response"],"cssclasses":"center-images"}
 ---
 
 

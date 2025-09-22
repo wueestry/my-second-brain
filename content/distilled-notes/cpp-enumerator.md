@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Enumerator in C++","created":"2025-05-22 13:32","modified":"2025-09-19T07:19:35.055+02:00","tags":["#resource","#coding","#cpp","#enums","#data-types","#initialization"],"cssclasses":"center-images"}
+{"publish":true,"title":"Enumerator in C++","created":"2025-05-22 13:32","modified":"2025-09-22T10:30:59.550+02:00","tags":["#coding","#cpp","#enums","#data-types","#initialization"],"cssclasses":"center-images"}
 ---
 
 

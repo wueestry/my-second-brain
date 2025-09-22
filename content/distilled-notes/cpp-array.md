@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Array in C++","created":"2025-07-29 09:47","modified":"2025-09-19T07:23:30.286+02:00","tags":["#resource","#cpp","#programming","#arrays","#data-structures","#c-11"],"cssclasses":"center-images"}
+{"publish":true,"title":"Array in C++","created":"2025-07-29 09:47","modified":"2025-09-22T10:30:46.911+02:00","tags":["#cpp","#programming","#arrays","#data-structures","#c-11"],"cssclasses":"center-images"}
 ---
 
 

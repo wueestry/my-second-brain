@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Magnitude Plot","created":"2025-08-07 11:14","modified":"2025-09-17T12:36:44.577+02:00","tags":["resource","control-systems","bode-plot","signal-processing","frequency-response","mathematical-modeling"],"cssclasses":"center-images"}
+{"publish":true,"title":"Magnitude Plot","created":"2025-08-07 11:14","modified":"2025-09-22T10:30:02.756+02:00","tags":["#control-systems","#bode-plot","#signal-processing","#frequency-response","#mathematical-modeling"],"cssclasses":"center-images"}
 ---
 
 

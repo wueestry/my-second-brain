@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Structures in C++","created":"2025-05-22 07:47","modified":"2025-09-19T07:23:22.086+02:00","tags":["#coding","#resource","#cpp","#struct","#data-structures","#cpp-classes","#object-oriented-programming"],"cssclasses":"center-images"}
+{"publish":true,"title":"Structures in C++","created":"2025-05-22 07:47","modified":"2025-09-22T10:31:30.313+02:00","tags":["#coding","#cpp","#struct","#data-structures","#cpp-classes","#object-oriented-programming"],"cssclasses":"center-images"}
 ---
 
 

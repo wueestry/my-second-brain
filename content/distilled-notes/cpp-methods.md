@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Methods in C++","created":"2025-08-04 13:30","modified":"2025-09-19T07:20:48.010+02:00","tags":["#resource","#cpp","#class","#programming","#object-oriented-programming","#methods","#cpp-classes","#class-definition"],"cssclasses":"center-images"}
+{"publish":true,"title":"Methods in C++","created":"2025-08-04 13:30","modified":"2025-09-22T10:31:10.580+02:00","tags":["#cpp","#class","#programming","#object-oriented-programming","#methods","#cpp-classes","#class-definition"],"cssclasses":"center-images"}
 ---
 
 
