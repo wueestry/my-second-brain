@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"My Second Brain","created":"2025-07-28","modified":"2025-08-28T08:34:06.068+02:00","cssclasses":"center-images center-titles"}
+{"publish":true,"title":"My Second Brain","created":"2025-07-28","modified":"2025-09-22T10:56:40.809+02:00","cssclasses":"center-images center-titles"}
 ---
 
 
@@ -15,7 +15,7 @@ Welcome to my second brain, a _Zettelkasten_ of my various interests, including 
 
 ---
 
-`Evaluation Error: SyntaxError: Invalid regular expression: missing /
+Evaluation Error: SyntaxError: Invalid regular expression: missing /
     at DataviewInlineApi.eval (plugin:dataview:25195:17)
     at evalInContext (plugin:dataview:25196:5)
     at asyncEvalInContext (plugin:dataview:25205:28)
@@ -212,4 +212,4 @@ const CreateTagCloud = async ( ) =>
 }
 
 CreateTagCloud( )
-````
+```

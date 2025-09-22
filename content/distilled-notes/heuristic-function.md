@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Heuristic Function","created":"2025-08-06 19:52","modified":"2025-09-17T12:37:16.121+02:00","tags":["resource","heuristics","algorithms","search-algorithm","science","computer-science","pathfinding","ai-search"],"cssclasses":"center-images"}
+{"publish":true,"title":"Heuristic Function","created":"2025-08-06 19:52","modified":"2025-09-22T10:31:58.747+02:00","tags":["#heuristics","#algorithms","#search-algorithm","#science","#computer-science","#pathfinding","#ai-search"],"cssclasses":"center-images"}
 ---
 
 

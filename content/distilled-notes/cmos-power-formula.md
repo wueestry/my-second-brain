@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"CMOS Power Formula","created":"2025-08-28 11:05","modified":"2025-09-17T12:43:49.879+02:00","tags":["resource","computer-science","electrical-engineering","science","cmos","power-dissipation","circuit-design","semiconductors"],"cssclasses":"center-images"}
+{"publish":true,"title":"CMOS Power Formula","created":"2025-08-28 11:05","modified":"2025-09-22T10:30:33.039+02:00","tags":["#computer-science","#electrical-engineering","#science","#cmos","#power-dissipation","#circuit-design","#semiconductors"],"cssclasses":"center-images"}
 ---
 
 

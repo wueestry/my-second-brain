@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Namespaces in C++","created":"2025-01-28 16:03","modified":"2025-09-19T07:21:07.391+02:00","tags":["#resource","#cpp","#programming","#data-types","#class","#namespaces","#c-namespaces","#code-organization"],"cssclasses":"center-images"}
+{"publish":true,"title":"Namespaces in C++","created":"2025-01-28 16:03","modified":"2025-09-22T10:31:12.337+02:00","tags":["#cpp","#programming","#data-types","#class","#namespaces","#c-namespaces","#code-organization"],"cssclasses":"center-images"}
 ---
 
 

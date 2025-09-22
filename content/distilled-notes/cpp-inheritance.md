@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Inheritance in C++","created":"2025-08-04 13:43","modified":"2025-09-19T07:21:56.450+02:00","tags":["#resource","#class","#programming","#object-oriented-programming","#inheritance","#cpp","#data-structures","#algorithms"],"cssclasses":"center-images"}
+{"publish":true,"title":"Inheritance in C++","created":"2025-08-04 13:43","modified":"2025-09-22T10:31:03.640+02:00","tags":["#class","#programming","#object-oriented-programming","#inheritance","#cpp","#data-structures","#algorithms"],"cssclasses":"center-images"}
 ---
 
 

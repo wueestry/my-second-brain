@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Gain Margin","created":"2025-08-07 11:31","modified":"2025-09-17T12:37:33.817+02:00","tags":["resource","control-systems","stability","bode-plot","signal-processing","feedback-systems"],"cssclasses":"center-images"}
+{"publish":true,"title":"Gain Margin","created":"2025-08-07 11:31","modified":"2025-09-22T10:29:58.542+02:00","tags":["#control-systems","#stability","#bode-plot","#signal-processing","#feedback-systems"],"cssclasses":"center-images"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Branch Prediction","created":"2025-09-02 14:15","modified":"2025-09-17T12:43:49.880+02:00","tags":["resource","computer-science","algorithm","programming","branch-prediction","processor-architecture","pipeline","speculative-execution"],"cssclasses":"center-images"}
+{"publish":true,"title":"Branch Prediction","created":"2025-09-02 14:15","modified":"2025-09-22T10:30:13.523+02:00","tags":["#computer-science","#algorithm","#programming","#branch-prediction","#processor-architecture","#pipeline","#speculative-execution"],"cssclasses":"center-images"}
 ---
 
 

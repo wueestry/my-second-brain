@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Dijkstra's Algorithm","created":"2024-10-15 15:17","modified":"2025-09-17T12:35:41.261+02:00","tags":["resource","graph-theory","graph-traversal","algorithms","search-algorithm","data-structures","programming","computer-science"],"cssclasses":"center-images"}
+{"publish":true,"title":"Dijkstra's Algorithm","created":"2024-10-15 15:17","modified":"2025-09-22T10:31:46.879+02:00","tags":["#graph-theory","#graph-traversal","#algorithms","#search-algorithm","#data-structures","#programming","#computer-science"],"cssclasses":"center-images"}
 ---
 
 
