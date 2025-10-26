@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Vectors in C++","created":"2025-07-29 16:12","modified":"2025-09-22T10:31:36.251+02:00","tags":["#cpp","#data-types","#arrays","#vector","#cpp-std","#string-manipulation"],"cssclasses":"center-images"}
+{"publish":true,"title":"Vectors in C++","created":"2025-07-29 16:12","modified":"2025-10-01T21:17:17.306+02:00","tags":["#cpp","#data-types","#arrays","#vector","#cpp-std","#string-manipulation"],"cssclasses":"center-images"}
 ---
 
 

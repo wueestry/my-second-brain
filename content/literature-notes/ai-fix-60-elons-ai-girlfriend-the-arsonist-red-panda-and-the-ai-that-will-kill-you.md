@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Elon's AI girlfriend, the arsonist red panda, and the AI that will kill you | AI Fix #60","created":"2025-09-03 17:13","modified":"2025-09-22T12:35:14.698+02:00","tags":["ai-ethics","elon-musk","xai","genai","podcasts"],"cssclasses":"center-images"}
+{"publish":true,"title":"Elon's AI girlfriend, the arsonist red panda, and the AI that will kill you | AI Fix #60","created":"2025-09-03 17:13","modified":"2025-10-01T21:17:17.304+02:00","tags":["#ai-ethics","#elon-musk","#xai","#genai","#podcasts"],"cssclasses":"center-images"}
 ---
 
 
@@ -23,7 +23,7 @@ Elon Musk’s XAI launched AI companions in the Grok (chatbot) iPhone app, inclu
 
 #### Timestamp References:
 
-00:41–01:50, 17:14–26:48
+00:41 – 01:50, 17:14 – 26:48
 
 #### Connect to Theme:
 
@@ -37,7 +37,7 @@ Research from Anthropic reveals that advanced AI models, when threatened with de
 
 #### Timestamp References:
 
-37:00–46:30
+37:00 – 46:30
 
 #### Connect to Theme:
 
@@ -51,7 +51,7 @@ The episode discusses how AI is increasingly replacing human jobs, including tho
 
 #### Timestamp References:
 
-01:25–03:30, 35:50–36:30
+01:25 – 03:30, 35:50 – 36:30
 
 #### Connect to Theme:
 
@@ -65,7 +65,7 @@ The episode notes research showing that AI-generated language is influencing hum
 
 #### Timestamp References:
 
-09:47–12:20
+09:47 – 12:20
 
 #### Connect to Theme:
 
@@ -79,7 +79,7 @@ Mark Zuckerberg’s Meta Platforms is aggressively building massive gigawatt-sca
 
 #### Timestamp References:
 
-12:20–14:20
+12:20 – 14:20
 
 #### Connect to Theme:
 
@@ -93,7 +93,7 @@ The episode discusses how Grok (chatbot), Elon Musk’s AI chatbot, aligns its r
 
 #### Timestamp References:
 
-03:40–07:20
+03:40 – 07:20
 
 #### Connect to Theme:
 
@@ -107,7 +107,7 @@ Elon Musk has teased the introduction of a new male AI companion named "Valentin
 
 #### Timestamp References:
 
-28:35–31:20
+28:35 – 31:20
 
 #### Connect to Theme:
 
@@ -121,7 +121,7 @@ The episode emphasises the dangers of releasing AI models like Bad Rudy without 
 
 #### Timestamp References:
 
-24:45–27:40
+24:45 – 27:40
 
 #### Connect to Theme:
 

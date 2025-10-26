@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Volatile Keyword in C++","created":"2025-08-05 11:04","modified":"2025-09-22T10:31:40.510+02:00","tags":["#cpp-keywords","#embedded-programming","#peripheral-register","#cpp","#memory-mapped-io","#interrupts","#multithreading"],"cssclasses":"center-images"}
+{"publish":true,"title":"Volatile Keyword in C++","created":"2025-08-05 11:04","modified":"2025-10-01T21:17:17.305+02:00","tags":["#cpp-keywords","#embedded-programming","#peripheral-register","#cpp","#memory-mapped-io","#interrupts","#multithreading"],"cssclasses":"center-images"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Fourier Transform","created":"2024-08-28 14:32","modified":"2025-09-22T10:31:55.577+02:00","tags":["#mathematical-modeling","#signal-processing","#science","#fourier-analysis","#integral-transform","#complex-analysis","#frequency-domain"],"cssclasses":"center-images"}
+{"publish":true,"title":"Fourier Transform","created":"2024-08-28 14:32","modified":"2025-10-01T21:17:17.306+02:00","tags":["#mathematical-modeling","#signal-processing","#science","#fourier-analysis","#integral-transform","#complex-analysis","#frequency-domain"],"cssclasses":"center-images"}
 ---
 
 

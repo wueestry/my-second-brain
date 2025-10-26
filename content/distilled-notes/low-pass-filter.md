@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Low-Pass Filter","created":"2024-08-08T00:00:00.000Z","modified":"2025-09-22T10:32:15.033+02:00","tags":["#control-systems","#filter-design","#signal-processing","#electronics","#circuit-design","#frequency-response"],"cssclasses":"center-images"}
+{"publish":true,"title":"Low-Pass Filter","created":"2024-08-08T00:00:00.000Z","modified":"2025-10-01T21:17:17.308+02:00","tags":["#control-systems","#filter-design","#signal-processing","#electronics","#circuit-design","#frequency-response"],"cssclasses":"center-images"}
 ---
 
 

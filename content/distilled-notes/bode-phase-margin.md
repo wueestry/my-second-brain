@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Phase Margin","created":"2025-08-07 11:37","modified":"2025-09-22T10:30:00.392+02:00","tags":["#control-systems","#stability","#frequency-response","#dynamic-systems"],"cssclasses":"center-images"}
+{"publish":true,"title":"Phase Margin","created":"2025-08-07 11:37","modified":"2025-10-01T21:17:17.306+02:00","tags":["#control-systems","#stability","#frequency-response","#dynamic-systems"],"cssclasses":"center-images"}
 ---
 
 

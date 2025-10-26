@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Templates  in C++","created":"2024-09-16 11:13","modified":"2025-09-19T07:24:40.437+02:00","tags":["#computer-science","#coding","#generics","#cpp","#templates","#template-metaprogramming","#class-templates","#function-templates"],"cssclasses":"center-images"}
+{"publish":true,"title":"Templates  in C++","created":"2024-09-16 11:13","modified":"2025-10-01T21:17:17.305+02:00","tags":["#computer-science","#coding","#generics","#cpp","#templates","#template-metaprogramming","#class-templates","#function-templates"],"cssclasses":"center-images"}
 ---
 
 

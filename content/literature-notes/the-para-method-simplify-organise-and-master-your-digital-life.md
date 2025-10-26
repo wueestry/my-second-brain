@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The Para Method: The Simple System for Organising Your Digital Life in Seconds","created":"2025-09-01 16:23","modified":"2025-09-17T07:09:46.825+02:00","tags":["productivity","personal-knowledge-management","tiago-forte","information-management","para-method","task-management","learning","digital-organisation"],"cssclasses":"center-images","socialImage":"http://books.google.com/books/content?id=TXvFzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"}
+{"publish":true,"title":"The Para Method: The Simple System for Organising Your Digital Life in Seconds","created":"2025-09-01 16:23","modified":"2025-10-01T21:17:17.303+02:00","tags":["#productivity","#personal-knowledge-management","#tiago-forte","#information-management","#para-method","#task-management","#learning","#digital-organisation"],"cssclasses":"center-images","socialImage":"http://books.google.com/books/content?id=TXvFzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Thinking Fast and Slow","created":"2025-09-01 16:17","modified":"2025-09-17T07:12:27.589+02:00","tags":["psychology","self-improvement","decision-making","daniel-kahneman","heuristics","book","cognitive-science"],"cssclasses":"center-images","socialImage":"http://books.google.com/books/content?id=ZuKTvERuPG8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"}
+{"publish":true,"title":"Thinking Fast and Slow","created":"2025-09-01 16:17","modified":"2025-10-01T21:17:17.303+02:00","tags":["#psychology","#self-improvement","#decision-making","#daniel-kahneman","#heuristics","#book","#cognitive-science"],"cssclasses":"center-images","socialImage":"http://books.google.com/books/content?id=ZuKTvERuPG8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"}
 ---
 
 

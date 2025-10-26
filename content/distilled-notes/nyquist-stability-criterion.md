@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Nyquist Stability Criterion","created":"2024-08-08T00:00:00.000Z","modified":"2025-09-22T10:32:22.059+02:00","tags":["#transfer-function","#control-engineering","#control-systems","#mathematics","#signal-processing","#stability","#complex-analysis"],"cssclasses":"center-images"}
+{"publish":true,"title":"Nyquist Stability Criterion","created":"2024-08-08T00:00:00.000Z","modified":"2025-10-01T21:17:17.306+02:00","tags":["#transfer-function","#control-engineering","#control-systems","#mathematics","#signal-processing","#stability","#complex-analysis"],"cssclasses":"center-images"}
 ---
 
 

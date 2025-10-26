@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"A-Star Search","created":"2025-07-30 13:16","modified":"2025-09-22T10:29:46.096+02:00","tags":["#coding","#algorithm","#science","#graph-theory","#pathfinding","#heuristic","#artificial-intelligence"],"cssclasses":"center-images"}
+{"publish":true,"title":"A-Star Search","created":"2025-07-30 13:16","modified":"2025-10-01T21:17:17.307+02:00","tags":["#coding","#algorithm","#science","#graph-theory","#pathfinding","#heuristic","#artificial-intelligence"],"cssclasses":"center-images"}
 ---
 
 

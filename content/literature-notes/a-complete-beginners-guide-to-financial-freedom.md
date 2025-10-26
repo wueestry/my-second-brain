@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"A Complete Beginner's Guide to Financial Freedom","created":"2025-09-03 08:31","modified":"2025-09-17T06:37:54.679+02:00","tags":["financial-freedom","financial-independence","ali-abdaal","skill-acquisition","4-s-framework"],"cssclasses":"center-images"}
+{"publish":true,"title":"A Complete Beginner's Guide to Financial Freedom","created":"2025-09-03 08:31","modified":"2025-10-01T21:17:17.303+02:00","tags":["#financial-freedom","#financial-independence","#ali-abdaal","#skill-acquisition","#4-s-framework"],"cssclasses":"center-images"}
 ---
 
 
@@ -21,7 +21,7 @@ Ali argues that while extreme success stories may involve luck, most people’s 
 
 #### Timestamp References:
 
-[00:10:15](https://www.youtube.com/watch?v=7nxUAyxNUKE), [00:12:30](https://www.youtube.com/watch?v=7nxUAyxNUKE)
+10:15, 12:30
 
 #### Connect to Theme:
 
@@ -35,7 +35,7 @@ Ali introduces a comprehensive framework to guide beginners: having a clear stra
 
 #### Timestamp References:
 
-[00:25:40](https://www.youtube.com/watch?v=7nxUAyxNUKE), [00:27:10](https://www.youtube.com/watch?v=7nxUAyxNUKE)
+25:40, 27:10
 
 #### Connect to Theme:
 
@@ -49,8 +49,7 @@ The video critiques traditional schooling for failing to teach essential financi
 
 #### Timestamp References:
 
-[00:05:00](https://www.youtube.com/watch?v=7nxUAyxNUKE), [00:06:45](https://www.youtube.com/watch?v=7nxUAyxNUKE)
-
+05:00, 06:45
 #### Connect to Theme:
 
 Supports the channel’s advocacy for alternative learning paths and self-directed growth.
@@ -63,7 +62,7 @@ Ali uses the metaphor of a combination lock to illustrate how accumulating diver
 
 #### Timestamp References:
 
-[00:40:20](https://www.youtube.com/watch?v=7nxUAyxNUKE), [00:42:00](https://www.youtube.com/watch?v=7nxUAyxNUKE)
+40:20, 42:00
 
 #### Connect to Theme:
 
@@ -77,7 +76,7 @@ Ali emphasises that managing time, energy, and focus is a critical multiplier in
 
 #### Timestamp References:
 
-[01:05:10](https://www.youtube.com/watch?v=7nxUAyxNUKE), [01:07:25](https://www.youtube.com/watch?v=7nxUAyxNUKE)
+01:05:10, 01:07:25
 
 #### Connect to Theme:
 
@@ -91,7 +90,7 @@ The video highlights the role of community and mentorship in overcoming isolatio
 
 #### Timestamp References:
 
-[01:15:00](https://www.youtube.com/watch?v=7nxUAyxNUKE), [01:16:45](https://www.youtube.com/watch?v=7nxUAyxNUKE)
+01:15:00, 01:16:45
 
 #### Connect to Theme:
 
@@ -105,7 +104,7 @@ Ali challenges the common entrepreneurial paralysis caused by waiting for the pe
 
 #### Timestamp References:
 
-[01:25:30](https://www.youtube.com/watch?v=7nxUAyxNUKE), [01:27:00](https://www.youtube.com/watch?v=7nxUAyxNUKE)
+01:25:30, 01:27:00
 
 #### Connect to Theme:
 
@@ -119,7 +118,7 @@ Ali presents financial freedom as a problem of learning a finite set of skills r
 
 #### Timestamp References:
 
-[01:35:20](https://www.youtube.com/watch?v=7nxUAyxNUKE), [01:37:10](https://www.youtube.com/watch?v=7nxUAyxNUKE)
+01:35:20, 01:37:10
 
 #### Connect to Theme:
 

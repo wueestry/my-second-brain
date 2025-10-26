@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Doppler Velocity Log (DVL)","created":"2025-04-15 10:40","modified":"2025-09-22T10:31:49.172+02:00","tags":["#science","#algorithms","#computer-science","#underwater-navigation","#acoustic-sensors","#marine-technology","#doppler-effect"],"cssclasses":"center-images"}
+{"publish":true,"title":"Doppler Velocity Log (DVL)","created":"2025-04-15 10:40","modified":"2025-10-01T21:17:17.306+02:00","tags":["#science","#algorithms","#computer-science","#underwater-navigation","#acoustic-sensors","#marine-technology","#doppler-effect"],"cssclasses":"center-images"}
 ---
 
 

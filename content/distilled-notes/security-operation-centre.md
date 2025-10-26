@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Security Operation Centre (SOC)","created":"2025-08-23 15:31","modified":"2025-09-22T10:32:47.049+02:00","tags":["#cybersecurity","#defensive-security","#soc","#incident-response","#threat-detection"],"cssclasses":"center-images"}
+{"publish":true,"title":"Security Operation Centre (SOC)","created":"2025-08-23 15:31","modified":"2025-10-01T21:17:17.305+02:00","tags":["#cybersecurity","#defensive-security","#soc","#incident-response","#threat-detection"],"cssclasses":"center-images"}
 ---
 
 

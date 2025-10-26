@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"PostgreSQL","created":"2024-11-20 07:52","modified":"2025-09-22T10:32:39.033+02:00","tags":["#databases","#sql","#bash","#postgresql","#database-management","#relational-database"],"cssclasses":""}
+{"publish":true,"title":"PostgreSQL","created":"2024-11-20 07:52","modified":"2025-10-01T21:17:17.307+02:00","tags":["#databases","#sql","#bash","#postgresql","#database-management","#relational-database"],"cssclasses":""}
 ---
 
 

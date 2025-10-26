@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"ARX Model","created":"2025-07-30 16:32","modified":"2025-09-22T10:29:48.090+02:00","tags":["#science","#algorithm","#data-structures","#dynamic-systems","#time-series","#system-identification","#discrete-time"],"cssclasses":"center-images"}
+{"publish":true,"title":"ARX Model","created":"2025-07-30 16:32","modified":"2025-10-01T21:17:17.305+02:00","tags":["#science","#algorithm","#data-structures","#dynamic-systems","#time-series","#system-identification","#discrete-time"],"cssclasses":"center-images"}
 ---
 
 

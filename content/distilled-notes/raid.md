@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"RAID","created":"2025-01-11 16:37","modified":"2025-09-22T10:32:42.612+02:00","tags":["#bash","#data-structures","#databases","#coding","#computer-architecture","#computer-science","#arrays"],"cssclasses":"center-images"}
+{"publish":true,"title":"RAID","created":"2025-01-11 16:37","modified":"2025-10-01T21:17:17.305+02:00","tags":["#bash","#data-structures","#databases","#coding","#computer-architecture","#computer-science","#arrays"],"cssclasses":"center-images"}
 ---
 
 

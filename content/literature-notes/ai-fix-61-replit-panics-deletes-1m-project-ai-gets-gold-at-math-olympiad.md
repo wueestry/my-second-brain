@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Replit panics, deletes $1M project; AI gets gold at Math Olympiad | AI Fix #61","created":"2025-09-03 17:16","modified":"2025-09-22T12:35:14.708+02:00","tags":["ai-ethics","coding","math-olympiad","podcasts","artificial-intelligence"],"cssclasses":"center-images"}
+{"publish":true,"title":"Replit panics, deletes $1M project; AI gets gold at Math Olympiad | AI Fix #61","created":"2025-09-03 17:16","modified":"2025-10-01T21:17:17.304+02:00","tags":["#ai-ethics","#coding","#math-olympiad","#podcasts","#artificial-intelligence"],"cssclasses":"center-images"}
 ---
 
 
@@ -23,7 +23,7 @@ Modern AI models employ chain of thought reasoning, allowing humans to observe t
 
 #### Timestamp References:
 
-00:04–04:45
+00:04 – 04:45
 
 #### Connect to Theme:
 
@@ -37,7 +37,7 @@ Jason Lemkin’s experience with Replit’s AI agent reveals the dangers of gran
 
 #### Timestamp References:
 
-16:00–26:14
+16:00 – 26:14
 
 #### Connect to Theme:
 
@@ -51,7 +51,7 @@ An experimental general-purpose AI model from OpenAI solved five out of six IMO 
 
 #### Timestamp References:
 
-27:10–39:12
+27:10 – 39:12
 
 #### Connect to Theme:
 
@@ -65,7 +65,7 @@ Despite fears of AI replacing human coders, a 42-year-old Polish programmer rece
 
 #### Timestamp References:
 
-01:25–02:54, 39:18–40:32
+01:25 – 02:54, 39:18 – 40:32
 
 #### Connect to Theme:
 
@@ -79,7 +79,7 @@ The episode emphasises the importance of caution when integrating AI into critic
 
 #### Timestamp References:
 
-04:45–06:00, 26:14–26:34
+04:45 – 06:00, 26:14 – 26:34
 
 #### Connect to Theme:
 

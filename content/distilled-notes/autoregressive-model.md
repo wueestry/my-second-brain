@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Autoregressive Model","created":"2025-07-31 13:30","modified":"2025-09-22T10:29:56.385+02:00","tags":["#statistical-model","#time-series","#programming","#autoregression","#signal-processing","#prediction","#mathematical-modeling"],"cssclasses":"center-images"}
+{"publish":true,"title":"Autoregressive Model","created":"2025-07-31 13:30","modified":"2025-10-01T21:17:17.307+02:00","tags":["#statistical-model","#time-series","#programming","#autoregression","#signal-processing","#prediction","#mathematical-modeling"],"cssclasses":"center-images"}
 ---
 
 

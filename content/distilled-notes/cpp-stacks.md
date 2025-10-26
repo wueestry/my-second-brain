@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Stacks in C++","created":"2025-06-04T00:00:00.000Z","modified":"2025-09-22T10:31:25.765+02:00","tags":["#coding","#cpp","#data-structures","#stack","#lifo","#cpp-lists"],"cssclasses":"center-images"}
+{"publish":true,"title":"Stacks in C++","created":"2025-06-04T00:00:00.000Z","modified":"2025-10-01T21:17:17.305+02:00","tags":["#coding","#cpp","#data-structures","#stack","#lifo","#cpp-lists"],"cssclasses":"center-images"}
 ---
 
 

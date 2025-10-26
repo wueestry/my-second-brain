@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"C++ Pointers","created":"2025-05-22 13:43","modified":"2025-09-22T10:31:16.824+02:00","tags":["#cpp","#data-types","#pointers","#memory-address","#dereferencing"],"cssclasses":"center-images"}
+{"publish":true,"title":"C++ Pointers","created":"2025-05-22 13:43","modified":"2025-10-01T21:17:17.305+02:00","tags":["#cpp","#data-types","#pointers","#memory-address","#dereferencing"],"cssclasses":"center-images"}
 ---
 
 

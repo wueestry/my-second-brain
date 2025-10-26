@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"PID Tuning","created":"2025-08-06 15:21","modified":"2025-09-22T10:32:32.447+02:00","tags":["#pid-control","#control-engineering","#control-systems","#tuning","#control-loop","#optimization","#feedback"],"cssclasses":"center-images"}
+{"publish":true,"title":"PID Tuning","created":"2025-08-06 15:21","modified":"2025-10-01T21:17:17.306+02:00","tags":["#pid-control","#control-engineering","#control-systems","#tuning","#control-loop","#optimization","#feedback"],"cssclasses":"center-images"}
 ---
 
 

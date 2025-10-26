@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Derivative control","created":"2025-08-06 16:47","modified":"2025-09-22T10:31:43.814+02:00","tags":["#control-engineering","#dynamic-systems","#feedback-systems","#stability","#control-systems","#derivative-control","#pid-control"],"cssclasses":"center-images"}
+{"publish":true,"title":"Derivative control","created":"2025-08-06 16:47","modified":"2025-10-01T21:17:17.308+02:00","tags":["#control-engineering","#dynamic-systems","#feedback-systems","#stability","#control-systems","#derivative-control","#pid-control"],"cssclasses":"center-images"}
 ---
 
 

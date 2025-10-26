@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Strings in C++","created":"2025-05-20 15:51","modified":"2025-09-22T10:31:32.114+02:00","tags":["#cpp","#cpp-datatypes","#data-types","#programming","#strings","#string-manipulation","#c-style-strings"],"cssclasses":"center-images"}
+{"publish":true,"title":"Strings in C++","created":"2025-05-20 15:51","modified":"2025-10-01T21:17:17.308+02:00","tags":["#cpp","#cpp-datatypes","#data-types","#programming","#strings","#string-manipulation","#c-style-strings"],"cssclasses":"center-images"}
 ---
 
 

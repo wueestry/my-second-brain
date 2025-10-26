@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Class Constructor in C++","created":"2025-08-04 13:27","modified":"2025-09-22T10:30:48.688+02:00","tags":["#cpp","#programming","#class","#object-oriented-programming","#initialization","#c"],"cssclasses":"center-images"}
+{"publish":true,"title":"Class Constructor in C++","created":"2025-08-04 13:27","modified":"2025-10-01T21:17:17.308+02:00","tags":["#cpp","#programming","#class","#object-oriented-programming","#initialization","#c"],"cssclasses":"center-images"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Static Keyword in C++","created":"2024-11-20 09:45","modified":"2025-09-22T10:31:27.898+02:00","tags":["#cpp","#cpp-keywords","#programming","#functions","#class","#object-oriented-programming","#static"],"cssclasses":"center-images"}
+{"publish":true,"title":"Static Keyword in C++","created":"2024-11-20 09:45","modified":"2025-10-01T21:17:17.306+02:00","tags":["#cpp","#cpp-keywords","#programming","#functions","#class","#object-oriented-programming","#static"],"cssclasses":"center-images"}
 ---
 
 
