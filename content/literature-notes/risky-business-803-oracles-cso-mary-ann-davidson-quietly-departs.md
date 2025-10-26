@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Oracle's CSO Mary Ann Davidson quietly departs | Risky Business #803","created":"2025-08-22 19:24","modified":"2025-09-17T07:05:40.083+02:00","tags":["podcasts","privacy","financial-crime","data-breach","legacy-systems","cybersecurity","oracle"],"cssclasses":"center-images"}
+{"publish":true,"title":"Oracle's CSO Mary Ann Davidson quietly departs | Risky Business #803","created":"2025-08-22 19:24","modified":"2025-10-01T21:17:17.303+02:00","tags":["#podcasts","#privacy","#financial-crime","#data-breach","#legacy-systems","#cybersecurity","#oracle"],"cssclasses":"center-images"}
 ---
 
 
@@ -23,7 +23,7 @@ Mary Ann Davidson’s exit from Oracle after 27 years coincided closely with a p
 
 #### Timestamp References:
 
-00:30–07:30
+00:30 – 07:30
 
 #### Connect to Theme:
 
@@ -37,7 +37,7 @@ A Chinese cybercrime group has shifted tactics from targeting bank accounts to e
 
 #### Timestamp References:
 
-09:00–12:30
+09:00 – 12:30
 
 #### Connect to Theme:
 
@@ -51,7 +51,7 @@ The episode discusses critical security flaws found in the “T on her” dating
 
 #### Timestamp References:
 
-12:50–15:30
+12:50 – 15:30
 
 #### Connect to Theme:
 
@@ -65,7 +65,7 @@ The UK government’s request for Apple to provide access to encrypted data of A
 
 #### Timestamp References:
 
-15:30–19:00
+15:30 – 19:00
 
 #### Connect to Theme:
 
@@ -79,7 +79,7 @@ Attackers compromised Workday staff accounts in an upstream CRM system to harves
 
 #### Timestamp References:
 
-19:00–21:30
+19:00 – 21:30
 
 #### Connect to Theme:
 
@@ -93,7 +93,7 @@ Norwegian authorities attributed an attack on a dam’s industrial control syste
 
 #### Timestamp References:
 
-25:30–27:00
+25:30 – 27:00
 
 #### Connect to Theme:
 
@@ -107,7 +107,7 @@ CISA and international partners released detailed guidance on cataloguing and ma
 
 #### Timestamp References:
 
-26:30–28:30
+26:30 – 28:30
 
 #### Connect to Theme:
 
@@ -121,7 +121,7 @@ Accenture’s acquisition of Australian cybersecurity firm CyberCX, a successful
 
 #### Timestamp References:
 
-37:00–42:00
+37:00 – 42:00
 
 #### Connect to Theme:
 
@@ -135,7 +135,7 @@ The episode discusses the development of advanced authentication solutions, such
 
 #### Timestamp References:
 
-45:30–50:00
+45:30 – 50:00
 
 #### Connect to Theme:
 

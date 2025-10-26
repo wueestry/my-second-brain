@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Everything Is Open Source If You Can Reverse Engineer (Hack With Me)","created":"2025-09-22 12:40","modified":"2025-09-22T12:43:30.443+02:00","tags":["#youtube"],"cssclasses":"center-images"}
+{"publish":true,"title":"Everything Is Open Source If You Can Reverse Engineer (Hack With Me)","created":"2025-09-22 12:40","modified":"2025-10-01T21:17:17.304+02:00","tags":["#youtube"],"cssclasses":"center-images"}
 ---
 
 
@@ -21,7 +21,7 @@ Reverse engineering is defined as the art of taking apart software to understand
 
 #### Timestamp References:
 
-00:00:10, 00:01:00
+00:10, 01:00
 
 #### Connect to Theme:
 
@@ -35,7 +35,7 @@ The video demonstrates the use of basic tools like `file` and `strings` to ident
 
 #### Timestamp References:
 
-00:03:00, 00:04:00
+03:00, 04:00
 
 #### Connect to Theme:
 
@@ -49,7 +49,7 @@ Interactive Disassembler Pro is introduced as a powerful disassembler that conve
 
 #### Timestamp References:
 
-00:05:30, 00:07:00, 00:08:30
+05:30, 07:00, 08:30
 
 #### Connect to Theme:
 
@@ -63,7 +63,7 @@ A critical vulnerability is identified in the program’s use of `srand` and `ra
 
 #### Timestamp References:
 
-00:09:30, 00:11:00, 00:12:30
+09:30, 11:00, 12:30
 
 #### Connect to Theme:
 
@@ -77,7 +77,7 @@ The video shows how to write a simple C program to generate a lookup table of se
 
 #### Timestamp References:
 
-00:13:00, 00:15:00, 00:17:30
+13:00, 15:00, 17:30
 
 #### Connect to Theme:
 
@@ -91,7 +91,7 @@ The creator encourages viewers to engage with CTF challenges like those on Hack 
 
 #### Timestamp References:
 
-00:18:30, 00:20:00
+18:30, 20:00
 
 #### Connect to Theme:
 

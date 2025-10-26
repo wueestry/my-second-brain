@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"From Street to State | Hacked #134","created":"2025-09-04 06:37","modified":"2025-09-22T12:35:14.869+02:00","tags":["hacktivism","espionage","cybersecurity","state-sponsored-hacking","cyberwarfare"],"cssclasses":"center-images"}
+{"publish":true,"title":"From Street to State | Hacked #134","created":"2025-09-04 06:37","modified":"2025-10-01T21:17:17.303+02:00","tags":["#hacktivism","#espionage","#cybersecurity","#state-sponsored-hacking","#cyberwarfare"],"cssclasses":"center-images"}
 ---
 
 
@@ -23,7 +23,7 @@ The Honker Union began in the late 1990s as a loosely organised group of patriot
 
 #### Timestamp References:
 
-00:01:36 - 00:02:11, 00:08:28 - 00:09:50, 00:12:20 - 00:13:49
+01:36 - 02:11, 08:28 - 09:50, 12:20 - 13:49
 
 #### Connect to Theme:
 
@@ -37,7 +37,7 @@ Talented hackers like Tan Dai Lin (aka Wicked Rose) were identified through thei
 
 #### Timestamp References:
 
-00:19:17 - 00:20:13, 00:20:34 - 00:21:06
+19:17 - 20:13, 20:34 - 21:06
 
 #### Connect to Theme:
 
@@ -51,7 +51,7 @@ At its peak, the Honker Union had tens of thousands of members, with a core grou
 
 #### Timestamp References:
 
-00:14:15 - 00:15:07, 00:24:05 - 00:24:53
+14:15 - 15:07, 24:05 - 24:53
 
 #### Connect to Theme:
 
@@ -65,7 +65,7 @@ In 2009, China criminalised unauthorised hacking and the creation of hacking too
 
 #### Timestamp References:
 
-00:23:39 - 00:24:05, 00:16:01 - 00:17:33
+23:39 - 24:05, 16:01 - 17:33
 
 #### Connect to Theme:
 
@@ -79,7 +79,7 @@ Tan Dai Lin’s trajectory from a university hacker to a state-sponsored operati
 
 #### Timestamp References:
 
-00:19:17 - 00:22:58, 00:24:27 - 00:24:53
+19:17 - 22:58, 24:27 - 24:53
 
 #### Connect to Theme:
 
@@ -93,7 +93,7 @@ The episode underscores a global trend where nation-states recruit young, tech-s
 
 #### Timestamp References:
 
-00:04:08 - 00:05:06, 00:25:23 - 00:26:29
+04:08 - 05:06, 25:23 - 26:29
 
 #### Connect to Theme:
 
@@ -107,7 +107,7 @@ The Honker movement enjoyed widespread popular support in China during its early
 
 #### Timestamp References:
 
-00:01:36 - 00:02:04, 00:12:20 - 00:13:49, 00:15:13 - 00:15:46
+01:36 - 02:04, 12:20 - 13:49, 15:13 - 15:46
 
 #### Connect to Theme:
 
@@ -117,4 +117,4 @@ This insight highlights the interplay between nationalism, grassroots activism, 
 
 ## References
 
-- [YouTube](https://open.spotify.com/episode/5kKBI0Oln8LceMviKaV4Y3)
+- [Spotify](https://open.spotify.com/episode/5kKBI0Oln8LceMviKaV4Y3)

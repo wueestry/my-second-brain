@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Phase Plot","created":"2025-08-07 11:18","modified":"2025-09-22T10:30:04.497+02:00","tags":["#control-systems","#phase-plot","#frequency-response","#signal-processing"],"cssclasses":"center-images"}
+{"publish":true,"title":"Phase Plot","created":"2025-08-07 11:18","modified":"2025-10-01T21:17:17.309+02:00","tags":["#control-systems","#phase-plot","#frequency-response","#signal-processing"],"cssclasses":"center-images"}
 ---
 
 

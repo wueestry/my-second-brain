@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"References in C++","created":"2025-05-22 13:36","modified":"2025-09-22T10:31:18.892+02:00","tags":["#cpp","#programming","#references","#aliases","#memory-address"],"cssclasses":"center-images"}
+{"publish":true,"title":"References in C++","created":"2025-05-22 13:36","modified":"2025-10-01T21:17:17.305+02:00","tags":["#cpp","#programming","#references","#aliases","#memory-address"],"cssclasses":"center-images"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Proportional Control","created":"2025-08-06 15:39","modified":"2025-09-22T10:32:40.956+02:00","tags":["#control-engineering","#control-systems","#proportional-control","#feedback","#error-correction","#system-identification","#tuning"],"cssclasses":"center-images"}
+{"publish":true,"title":"Proportional Control","created":"2025-08-06 15:39","modified":"2025-10-01T21:17:17.305+02:00","tags":["#control-engineering","#control-systems","#proportional-control","#feedback","#error-correction","#system-identification","#tuning"],"cssclasses":"center-images"}
 ---
 
 

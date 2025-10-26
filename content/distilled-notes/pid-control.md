@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"PID Control","created":"2024-08-14T00:00:00.000Z","modified":"2025-09-22T10:32:30.749+02:00","tags":["#control-engineering","#control-systems","#derivative-control","#integral-control","#proportional-control","#pid-control","#transfer-function"],"cssclasses":"center-images"}
+{"publish":true,"title":"PID Control","created":"2024-08-14T00:00:00.000Z","modified":"2025-10-01T21:17:17.306+02:00","tags":["#control-engineering","#control-systems","#derivative-control","#integral-control","#proportional-control","#pid-control","#transfer-function"],"cssclasses":"center-images"}
 ---
 
 
@@ -29,6 +29,3 @@ This structure allows the controller to combine the strengths of each term to ac
 
 ---
 ## References
-
-
-$$

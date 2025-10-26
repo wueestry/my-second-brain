@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Extended Kalman Filter","created":"2024-11-27 13:48","modified":"2025-09-22T10:31:53.931+02:00","tags":["#computer-science","#algorithms","#mathematical-modeling","#control-engineering","#data-structures","#science","#extended-kalman-filter"],"cssclasses":"center-images"}
+{"publish":true,"title":"Extended Kalman Filter","created":"2024-11-27 13:48","modified":"2025-10-01T21:17:17.308+02:00","tags":["#computer-science","#algorithms","#mathematical-modeling","#control-engineering","#data-structures","#science","#extended-kalman-filter"],"cssclasses":"center-images"}
 ---
 
 

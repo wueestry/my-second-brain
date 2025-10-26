@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Closed Loop Control","created":"2028-08-28T00:00:00.000Z","modified":"2025-09-22T10:30:31.016+02:00","tags":["#control-systems","#feedback-systems","#dynamic-systems","#stability","#electrical-engineering","#signal-processing","#control-engineering"],"cssclasses":"center-images"}
+{"publish":true,"title":"Closed Loop Control","created":"2028-08-28T00:00:00.000Z","modified":"2025-10-01T21:17:17.308+02:00","tags":["#control-systems","#feedback-systems","#dynamic-systems","#stability","#electrical-engineering","#signal-processing","#control-engineering"],"cssclasses":"center-images"}
 ---
 
 

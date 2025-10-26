@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Will Smith's AI crowd scandal, and gullible agents fall for scams | AI Fix #67","created":"2025-09-22 10:44","modified":"2025-09-22T12:35:14.766+02:00","tags":["podcasts","genai"],"cssclasses":"center-images"}
+{"publish":true,"title":"Will Smith's AI crowd scandal, and gullible agents fall for scams | AI Fix #67","created":"2025-09-22 10:44","modified":"2025-10-01T21:17:17.303+02:00","tags":["#podcasts","#genai","#artificial-intelligence","#ethics","#cybersecurity","#privacy","#science","#celebrity"],"cssclasses":"center-images"}
 ---
 
 
@@ -23,7 +23,7 @@ AI agents that perform online tasks, such as shopping or browsing, are shown to 
 
 #### Timestamp References:
 
-19:46–25:57, 28:12–29:41
+19:46 – 25:57, 28:12 – 29:41
 
 #### Connect to Theme:
 
@@ -37,7 +37,7 @@ The hosts liken AI agents to overly trusting Labradors, eager to please but lack
 
 #### Timestamp References:
 
-29:41–30:45
+29:41 – 30:45
 
 #### Connect to Theme:
 
@@ -51,7 +51,7 @@ The episode discusses the controversy over Will Smith’s recent concert footage
 
 #### Timestamp References:
 
-41:03–43:53
+41:03 – 43:53
 
 #### Connect to Theme:
 
@@ -65,7 +65,7 @@ The hosts examine allegations that Lauren Sánchez’s wedding photos were subtl
 
 #### Timestamp References:
 
-36:05–37:31
+36:05 – 37:31
 
 #### Connect to Theme:
 
@@ -79,7 +79,7 @@ The episode notes that while organisations often lag in understanding AI, indivi
 
 #### Timestamp References:
 
-44:40–45:53
+44:40 – 45:53
 
 #### Connect to Theme:
 

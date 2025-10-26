@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Model Predictive Control","created":"2025-01-16 13:40","modified":"2025-09-22T12:35:14.517+02:00","tags":["control-systems","control-engineering","mathematics","optimization","algorithms","model-predictive-control","receding-horizon-control","dynamic-systems"],"cssclasses":"center-images"}
+{"publish":true,"title":"Model Predictive Control","created":"2025-01-16 13:40","modified":"2025-10-01T21:17:17.308+02:00","tags":["#control-systems","#control-engineering","#mathematics","#optimization","#algorithms","#model-predictive-control","#receding-horizon-control","#dynamic-systems"],"cssclasses":"center-images"}
 ---
 
 

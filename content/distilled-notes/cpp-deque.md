@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Deque in C++","created":"2025-08-05 10:57","modified":"2025-09-22T10:30:57.836+02:00","tags":["#coding","#cpp","#data-structures","#algorithms","#c-standard"],"cssclasses":"center-images"}
+{"publish":true,"title":"Deque in C++","created":"2025-08-05 10:57","modified":"2025-10-01T21:17:17.306+02:00","tags":["#coding","#cpp","#data-structures","#algorithms","#c-standard"],"cssclasses":"center-images"}
 ---
 
 

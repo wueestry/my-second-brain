@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Peripheral Register","created":"2024-11-20 09:25","modified":"2025-09-22T10:32:27.949+02:00","tags":["#c","#data-types","#computer-architecture","#mmio","#volatile","#embedded-systems","#arm-assembly"],"cssclasses":"center-images"}
+{"publish":true,"title":"Peripheral Register","created":"2024-11-20 09:25","modified":"2025-10-01T21:17:17.306+02:00","tags":["#c","#data-types","#computer-architecture","#mmio","#volatile","#embedded-systems","#arm-assembly"],"cssclasses":"center-images"}
 ---
 
 

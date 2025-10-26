@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Quantum Security The One Thing No One's Preparing For","created":"2025-09-03 21:01","modified":"2025-09-22T12:35:14.920+02:00","tags":["science","cybersecurity","cryptography","geopolitics","post-quantum-cryptography","youtube","quantum-computing"],"cssclasses":"center-images"}
+{"publish":true,"title":"Quantum Security The One Thing No One's Preparing For","created":"2025-09-03 21:01","modified":"2025-10-01T21:17:17.303+02:00","tags":["#science","#cybersecurity","#cryptography","#geopolitics","#post-quantum-cryptography","#youtube","#quantum-computing"],"cssclasses":"center-images"}
 ---
 
 
@@ -21,7 +21,7 @@ Quantum computing will break widely used encryption algorithms such as RSA crypt
 
 #### Timestamp References:
 
-[00:02:00](https://www.youtube.com/watch?v=wctHJeLy-mM), [00:04:30](https://www.youtube.com/watch?v=wctHJeLy-mM)
+02:00, 04:30
 
 #### Connect to Theme:
 
@@ -35,7 +35,7 @@ Governments and private entities are already collecting and archiving encrypted 
 
 #### Timestamp References:
 
-[00:05:45](https://www.youtube.com/watch?v=wctHJeLy-mM), [00:07:00](https://www.youtube.com/watch?v=wctHJeLy-mM)
+05:45, 07:00
 
 #### Connect to Theme:
 
@@ -49,7 +49,7 @@ Quantum security is not just a technical challenge but a geopolitical and contro
 
 #### Timestamp References:
 
-[00:08:30](https://www.youtube.com/watch?v=wctHJeLy-mM), [00:09:45](https://www.youtube.com/watch?v=wctHJeLy-mM)
+08:30, 09:45
 
 #### Connect to Theme:
 
@@ -63,7 +63,7 @@ While quantum computing threatens many classical cryptographic methods, symmetri
 
 #### Timestamp References:
 
-[00:11:00](https://www.youtube.com/watch?v=wctHJeLy-mM), [00:12:30](https://www.youtube.com/watch?v=wctHJeLy-mM)
+11:00, 12:30
 
 #### Connect to Theme:
 
@@ -77,7 +77,7 @@ The video stresses that quantum security is not just a concern for large corpora
 
 #### Timestamp References:
 
-[00:13:45](https://www.youtube.com/watch?v=wctHJeLy-mM), [00:15:00](https://www.youtube.com/watch?v=wctHJeLy-mM)
+13:45, 15:00
 
 #### Connect to Theme:
 
@@ -91,7 +91,7 @@ The video dispels the misconception that quantum security is only relevant to te
 
 #### Timestamp References:
 
-[00:14:30](https://www.youtube.com/watch?v=wctHJeLy-mM), [00:16:00](https://www.youtube.com/watch?v=wctHJeLy-mM)
+14:30, 16:00
 
 #### Connect to Theme:
 

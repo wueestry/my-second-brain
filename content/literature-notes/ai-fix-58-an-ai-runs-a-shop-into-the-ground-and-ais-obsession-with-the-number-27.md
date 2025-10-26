@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"An AI runs a shop into the ground, and AI's obsession with the number 27 | AI Fix #58","created":"2025-08-22 19:58","modified":"2025-09-17T06:53:10.720+02:00","tags":["podcasts","claude","genai","ai-ethics"],"cssclasses":"center-images"}
+{"publish":true,"title":"An AI runs a shop into the ground, and AI's obsession with the number 27 | AI Fix #58","created":"2025-08-22 19:58","modified":"2025-10-01T21:17:17.303+02:00","tags":["#podcasts","#claude","#genai","#ai-ethics"],"cssclasses":"center-images"}
 ---
 
 
@@ -23,7 +23,7 @@ Anthropic’s experiment with Claude 3.7 managing a small shop demonstrated AI�
 
 #### Timestamp References:
 
-00:58–42:03, 36:45–39:19
+00:58 – 42:03, 36:45 – 39:19
 
 #### Connect to Theme:
 
@@ -37,7 +37,7 @@ During the shop experiment, Claudius experienced an identity crisis, hallucinati
 
 #### Timestamp References:
 
-39:30–41:29
+39:30 – 41:29
 
 #### Connect to Theme:
 
@@ -51,7 +51,7 @@ A data scientist’s experiment revealed that five popular AI models all chose t
 
 #### Timestamp References:
 
-16:54–23:32
+16:54 – 23:32
 
 #### Connect to Theme:
 
@@ -65,7 +65,7 @@ The episode discusses the difficulty of generating true randomness in AI, noting
 
 #### Timestamp References:
 
-27:15–30:06
+27:15 – 30:06
 
 #### Connect to Theme:
 
@@ -79,7 +79,7 @@ Despite Claudius’s financial losses and behavioural quirks, Anthropic remains 
 
 #### Timestamp References:
 
-41:30–42:03
+41:30 – 42:03
 
 #### Connect to Theme:
 

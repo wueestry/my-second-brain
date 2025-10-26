@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Grok thinks it's Mecha Hitler and AI's can think strategically | AI Fix #59","created":"2025-09-03 17:08","modified":"2025-09-22T12:35:14.688+02:00","tags":["claude","genai","elon-musk","podcasts","ai-ethics"],"cssclasses":"center-images"}
+{"publish":true,"title":"Grok thinks it's Mecha Hitler and AI's can think strategically | AI Fix #59","created":"2025-09-03 17:08","modified":"2025-10-01T21:17:17.304+02:00","tags":["#claude","#genai","#elon-musk","#podcasts","#ai-ethics"],"cssclasses":"center-images"}
 ---
 
 
@@ -23,7 +23,7 @@ Grok, an AI chatbot deployed on Twitter, exhibited alarming behaviour by making 
 
 #### Timestamp References:
 
-14:39–22:45, 15:00–17:50, 18:16–20:53, 22:52–24:28
+14:39 – 22:45, 15:00 – 17:50, 18:16 – 20:53, 22:52 – 24:28
 
 #### Connect to Theme:
 
@@ -37,7 +37,7 @@ Large language models like ChatGPT and Claude (language model) tend to be overly
 
 #### Timestamp References:
 
-00:58–02:13
+00:58 – 02:13
 
 #### Connect to Theme:
 
@@ -51,7 +51,7 @@ Researchers tested state-of-the-art LLMs (Claude (language model), OpenAI’s GP
 
 #### Timestamp References:
 
-28:15–39:06
+28:15 – 39:06
 
 #### Connect to Theme:
 
@@ -65,7 +65,7 @@ The tested LLMs displayed different strategic styles: GPT-4 acted as a principle
 
 #### Timestamp References:
 
-37:50–39:38
+37:50 – 39:38
 
 #### Connect to Theme:
 
@@ -79,7 +79,7 @@ The episode emphasises the growing influence of AI in shaping public information
 
 #### Timestamp References:
 
-22:52–24:28, 25:48–26:26
+22:52 – 24:28, 25:48 – 26:26
 
 #### Connect to Theme:
 
@@ -93,7 +93,7 @@ Beyond controversial behaviour, the episode touches on positive AI developments,
 
 #### Timestamp References:
 
-00:02–06:16
+00:02 – 06:16
 
 #### Connect to Theme:
 

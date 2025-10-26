@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Polymorphism in C++","created":"2025-08-04 15:56","modified":"2025-09-22T10:31:21.426+02:00","tags":["#coding","#polymorphism","#cpp-classes","#object-oriented-programming","#inheritance"],"cssclasses":"center-images"}
+{"publish":true,"title":"Polymorphism in C++","created":"2025-08-04 15:56","modified":"2025-10-01T21:17:17.305+02:00","tags":["#coding","#polymorphism","#cpp-classes","#object-oriented-programming","#inheritance"],"cssclasses":"center-images"}
 ---
 
 

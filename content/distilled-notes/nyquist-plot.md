@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Nyquist Plot","created":"2024-08-08T00:00:00.000Z","modified":"2025-09-22T10:32:19.902+02:00","tags":["#control-systems","#transfer-function","#nyquist","#stability","#frequency-response","#parametric-plot"],"cssclasses":"center-images"}
+{"publish":true,"title":"Nyquist Plot","created":"2024-08-08T00:00:00.000Z","modified":"2025-10-01T21:17:17.305+02:00","tags":["#control-systems","#transfer-function","#nyquist","#stability","#frequency-response","#parametric-plot"],"cssclasses":"center-images"}
 ---
 
 

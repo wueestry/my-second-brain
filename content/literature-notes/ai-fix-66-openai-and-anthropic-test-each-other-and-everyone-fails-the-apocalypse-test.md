@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"OpenAI and Anthropic test each other, and everyone fails the apocalypse test | AI Fix #66","created":"2025-09-22 10:34","modified":"2025-09-22T12:35:14.757+02:00","tags":["podcasts","genai"],"cssclasses":"center-images"}
+{"publish":true,"title":"OpenAI and Anthropic test each other, and everyone fails the apocalypse test | AI Fix #66","created":"2025-09-22 10:34","modified":"2025-10-01T21:17:17.304+02:00","tags":["#podcasts","#genai","#artificial-intelligence","#ethics","#cybersecurity","#risk-management","#ai-safety","#coaching"],"cssclasses":"center-images"}
 ---
 
 
@@ -23,7 +23,7 @@ OpenAI and Anthropic undertook a pilot exercise where they tested each other's A
 
 #### Timestamp References:
 
-36:00–37:30, 44:00–45:10
+36:00 – 37:30, 44:00 – 45:10
 
 #### Connect to Theme:
 
@@ -37,7 +37,7 @@ The evaluation revealed that many models, especially older versions like GPT-4.0
 
 #### Timestamp References:
 
-38:30–40:30, 39:30–40:00, 41:00–42:30
+38:30 – 40:30, 39:30 – 40:00, 41:00 – 42:30
 
 #### Connect to Theme:
 
@@ -51,7 +51,7 @@ The hosts discuss the current regulatory vacuum, noting that meaningful AI gover
 
 #### Timestamp References:
 
-32:50–33:40, 35:30–36:00, 31:00–31:30
+32:50 – 33:40, 35:30 – 36:00, 31:00 – 31:30
 
 #### Connect to Theme:
 
@@ -65,7 +65,7 @@ The episode frames the evaluation as an “apocalypse test,” assessing how AI 
 
 #### Timestamp References:
 
-28:40–30:20, 29:00–29:30, 26:50–27:30
+28:40 – 30:20, 29:00 – 29:30, 26:50 – 27:30
 
 #### Connect to Theme:
 
@@ -79,7 +79,7 @@ Despite the alarming findings, the hosts express a form of optimism based on the
 
 #### Timestamp References:
 
-44:00–45:20, 34:30–35:10, 43:50–44:10
+44:00 – 45:20, 34:30 – 35:10, 43:50 – 44:10
 
 #### Connect to Theme:
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Virtual Functions in C++","created":"2025-08-04 19:38","modified":"2025-09-22T10:31:33.966+02:00","tags":["#cpp-functions","#cpp-inheritance","#virtual-functions","#polymorphism","#object-oriented-programming"],"cssclasses":"center-images"}
+{"publish":true,"title":"Virtual Functions in C++","created":"2025-08-04 19:38","modified":"2025-10-01T21:17:17.306+02:00","tags":["#cpp-functions","#cpp-inheritance","#virtual-functions","#polymorphism","#object-oriented-programming"],"cssclasses":"center-images"}
 ---
 
 

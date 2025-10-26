@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Functions in C++","created":"2025-06-04 08:52","modified":"2025-09-22T10:31:01.268+02:00","tags":["#coding","#programming","#cpp","#algorithms","#data-structures","#object-oriented-programming","#functions"],"cssclasses":"center-images"}
+{"publish":true,"title":"Functions in C++","created":"2025-06-04 08:52","modified":"2025-10-01T21:17:17.307+02:00","tags":["#coding","#programming","#cpp","#algorithms","#data-structures","#object-oriented-programming","#functions"],"cssclasses":"center-images"}
 ---
 
 

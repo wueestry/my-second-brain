@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Hall Circle","created":"2024-08-08T00:00:00.000Z","modified":"2025-09-22T10:31:57.072+02:00","tags":["#graph-theory","#control-engineering","#control-systems","#mathematical-modeling","#science","#computer-science","#graph-traversal"],"cssclasses":"center-images"}
+{"publish":true,"title":"Hall Circle","created":"2024-08-08T00:00:00.000Z","modified":"2025-10-01T21:17:17.307+02:00","tags":["#graph-theory","#control-engineering","#control-systems","#mathematical-modeling","#science","#computer-science","#graph-traversal"],"cssclasses":"center-images"}
 ---
 
 
