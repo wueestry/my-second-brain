@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"AI robots can now pass CAPTCHAs and punch you in the face | AI Fix #62","created":"2025-09-03 14:57","modified":"2025-10-01T21:17:17.304+02:00","tags":["#artificial-intelligence","#robotics","#science","#ai-safety","#podcasts","#ai-ethics"],"cssclasses":"center-images"}
+{"publish":true,"title":"AI robots can now pass CAPTCHAs and punch you in the face | AI Fix #62","created":"2025-09-03 14:57","modified":"2025-10-30T06:40:44.544+01:00","tags":["artificial-intelligence","robotics","science","ai-safety","podcasts","ai-ethics"],"cssclasses":"center-images"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Atomic Habits: An Easy and Proven Way to Build Good Habits and Break Bad Ones","created":"2025-08-28 08:07","modified":"2025-10-01T21:17:17.304+02:00","tags":["#learning","#habit-formation","#book","#self-improvement"],"cssclasses":"center-images","socialImage":"http://books.google.com/books/content?id=fFCjDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"}
+{"publish":true,"title":"Atomic Habits: An Easy and Proven Way to Build Good Habits and Break Bad Ones","created":"2025-08-28 08:07","modified":"2025-10-30T06:40:44.544+01:00","tags":["learning","habit-formation","book","self-improvement"],"cssclasses":"center-images","socialImage":"http://books.google.com/books/content?id=fFCjDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"}
 ---
 
 

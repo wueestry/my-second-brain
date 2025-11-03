@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Twelve Factor App Codebase","created":"2025-10-07T00:00:00.000Z","modified":"2025-10-26T15:38:44.293+01:00","tags":["#codebase","#version-control","#twelve-factor-app","#code","#bash","#scripting","#terminal"],"cssclasses":"center-images"}
+{"publish":true,"title":"Twelve Factor App Codebase","created":"2025-10-07T00:00:00.000Z","modified":"2025-11-03T20:27:08.816+01:00","tags":["codebase","version-control","twelve-factor-app","code","bash","scripting","terminal"],"cssclasses":"center-images"}
 ---
 
 
@@ -17,4 +17,3 @@ There are usually multiple running instances (deploys) of the same app (producti
 ---
 
 ## References
-

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"OpenAI and Anthropic test each other, and everyone fails the apocalypse test | AI Fix #66","created":"2025-09-22 10:34","modified":"2025-10-01T21:17:17.304+02:00","tags":["#podcasts","#genai","#artificial-intelligence","#ethics","#cybersecurity","#risk-management","#ai-safety","#coaching"],"cssclasses":"center-images"}
+{"publish":true,"title":"OpenAI and Anthropic test each other, and everyone fails the apocalypse test | AI Fix #66","created":"2025-09-22 10:34","modified":"2025-11-03T20:27:08.653+01:00","tags":["podcasts","genai","artificial-intelligence","ethics","cybersecurity","risk-management","ai-safety","coaching"],"cssclasses":"center-images"}
 ---
 
 

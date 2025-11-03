@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"C++ Pointers","created":"2025-05-22 13:43","modified":"2025-10-01T21:17:17.305+02:00","tags":["#cpp","#data-types","#pointers","#memory-address","#dereferencing"],"cssclasses":"center-images"}
+{"publish":true,"title":"C++ Pointers","created":"2025-05-22 13:43","modified":"2025-11-03T20:38:05.668+01:00","tags":["computer-science/programming/cpp/pointer"],"cssclasses":"center-images"}
 ---
 
 
@@ -30,21 +30,58 @@ cout << ptr << "\n";
 cout << *ptr << "\n";
 ```
 
-## Modify the Pointer Value
+## Null Pointers
 
-It is also possible to change the pointer's value. **Note**: the value of the original value will _not_ be changed.
+A pointer should be initialised to `nullptr` if it doesn't point to a valid memory address yet. This prevents undefined behaviour from accessing uninitialised pointers.
 
 ```cpp
-// Change the value of the pointer
+string* ptr = nullptr;  // Safe initialisation
+
+if (ptr != nullptr) {
+    cout << *ptr << "\n";  // Only dereference if valid
+}
+```
+
+## Modify the Pointer Value
+
+Dereferencing a pointer with `*ptr` allows you to modify the value at the memory address it points to. This will change the original variable's value since the pointer references the same memory location.
+
+```cpp
+// Change the value through the pointer
 *ptr = "Hamburger";
 
-// Output the new value of the pointer (Hamburger)
+// Output the value through the pointer (Hamburger)
 cout << *ptr << "\n";
 
-// Output the new value of the food variable (Hamburger)
+// Output the original variable (also Hamburger - it has been modified)
 cout << food << "\n";
 ```
+
+## Pointer Arithmetic
+
+Pointers can be incremented or decremented to navigate through memory, particularly useful with arrays.
+
+```cpp
+int numbers[] = {10, 20, 30, 40};
+int* ptr = numbers;  // Points to first element
+
+cout << *ptr << "\n";       // 10
+cout << *(ptr + 1) << "\n"; // 20
+cout << *(ptr + 2) << "\n"; // 30
+```
+
+## Common Pitfalls
+
+- **Dangling pointers**: Pointers that reference deallocated memory
+- **Memory leaks**: Failing to deallocate dynamically allocated memory
+- **Null pointer dereferencing**: Attempting to access memory through a null pointer
 
 ---
 
 ## References
+
+- [C++ Pointers - cppreference.com](https://en.cppreference.com/w/cpp/language/pointer)
+- [C++ Pointers - W3Schools](https://www.w3schools.com/cpp/cpp_pointers.asp)
+- [Pointers - LearnCpp.com](https://www.learncpp.com/cpp-tutorial/introduction-to-pointers/)
+- Stroustrup, B. (2013). _The C++ Programming Language_ (4th ed.). Addison-Wesley. Chapter 7: Pointers, Arrays, and References
+- [Pointer Arithmetic - cplusplus.com](https://cplusplus.com/doc/tutorial/pointers/)

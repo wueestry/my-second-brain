@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Born to Run 2: The Ultimate Training Guide","created":"2025-08-23 14:39","modified":"2025-10-01T21:17:17.304+02:00","tags":["#learning","#fitness","#book","#running"],"cssclasses":"center-images","socialImage":"http://books.google.com/books/content?id=4t9iEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"}
+{"publish":true,"title":"Born to Run 2: The Ultimate Training Guide","created":"2025-08-23 14:39","modified":"2025-10-30T06:40:44.544+01:00","tags":["learning","fitness","book","running"],"cssclasses":"center-images","socialImage":"http://books.google.com/books/content?id=4t9iEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"}
 ---
 
 

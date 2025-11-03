@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Excel Copilot will wreck your data, and can AI fix social media? | AI Fix #65","created":"2025-09-22 10:52","modified":"2025-10-01T21:17:17.304+02:00","tags":["#podcasts","#genai","#artificial-intelligence","#algorithms","#social-media","#ethics","#science","#data-breach"],"cssclasses":"center-images"}
+{"publish":true,"title":"Excel Copilot will wreck your data, and can AI fix social media? | AI Fix #65","created":"2025-09-22 10:52","modified":"2025-11-03T20:27:08.646+01:00","tags":["podcasts","genai","artificial-intelligence","algorithms","social-media","ethics","science","data-breach"],"cssclasses":"center-images"}
 ---
 
 

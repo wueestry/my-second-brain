@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Replit panics, deletes $1M project; AI gets gold at Math Olympiad | AI Fix #61","created":"2025-09-03 17:16","modified":"2025-10-01T21:17:17.304+02:00","tags":["#ai-ethics","#coding","#math-olympiad","#podcasts","#artificial-intelligence"],"cssclasses":"center-images"}
+{"publish":true,"title":"Replit panics, deletes $1M project; AI gets gold at Math Olympiad | AI Fix #61","created":"2025-09-03 17:16","modified":"2025-10-30T06:40:44.544+01:00","tags":["ai-ethics","coding","math-olympiad","podcasts","artificial-intelligence"],"cssclasses":"center-images"}
 ---
 
 

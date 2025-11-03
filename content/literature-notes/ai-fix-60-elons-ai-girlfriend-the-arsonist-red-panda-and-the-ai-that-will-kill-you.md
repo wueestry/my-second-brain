@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Elon's AI girlfriend, the arsonist red panda, and the AI that will kill you | AI Fix #60","created":"2025-09-03 17:13","modified":"2025-10-01T21:17:17.304+02:00","tags":["#ai-ethics","#elon-musk","#xai","#genai","#podcasts"],"cssclasses":"center-images"}
+{"publish":true,"title":"Elon's AI girlfriend, the arsonist red panda, and the AI that will kill you | AI Fix #60","created":"2025-09-03 17:13","modified":"2025-10-30T06:40:44.544+01:00","tags":["ai-ethics","elon-musk","xai","genai","podcasts"],"cssclasses":"center-images"}
 ---
 
 

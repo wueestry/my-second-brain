@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Building a Second Brain: A Proven Method to Organise Your Digital Life and Unlock Your Creative Potential","created":"2025-01-16T00:00:00.000Z","modified":"2025-10-01T21:17:17.304+02:00","tags":["#learning","#tiago-forte","#book","#personal-knowledge-management"],"cssclasses":"center-images","socialImage":"http://books.google.com/books/content?id=0wZQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"}
+{"publish":true,"title":"Building a Second Brain: A Proven Method to Organise Your Digital Life and Unlock Your Creative Potential","created":"2025-01-16T00:00:00.000Z","modified":"2025-10-30T06:40:44.544+01:00","tags":["learning","tiago-forte","book","personal-knowledge-management"],"cssclasses":"center-images","socialImage":"http://books.google.com/books/content?id=0wZQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"}
 ---
 
 

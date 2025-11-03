@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Poisoned Calendar invites, ChatGPT, and Bromide | Smashing Security #430","created":"2025-09-03 20:51","modified":"2025-10-01T21:17:17.304+02:00","tags":["#artificial-intelligence","#cybersecurity","#ai-ethics","#privacy","#ai-automation","#podcasts","#google-gemini"],"cssclasses":"center-images"}
+{"publish":true,"title":"Poisoned Calendar invites, ChatGPT, and Bromide | Smashing Security #430","created":"2025-09-03 20:51","modified":"2025-10-30T06:40:44.544+01:00","tags":["artificial-intelligence","cybersecurity","ai-ethics","privacy","ai-automation","podcasts","google-gemini"],"cssclasses":"center-images"}
 ---
 
 

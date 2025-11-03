@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Will Smith's AI crowd scandal, and gullible agents fall for scams | AI Fix #67","created":"2025-09-22 10:44","modified":"2025-10-01T21:17:17.303+02:00","tags":["#podcasts","#genai","#artificial-intelligence","#ethics","#cybersecurity","#privacy","#science","#celebrity"],"cssclasses":"center-images"}
+{"publish":true,"title":"Will Smith's AI crowd scandal, and gullible agents fall for scams | AI Fix #67","created":"2025-09-22 10:44","modified":"2025-11-03T20:27:08.659+01:00","tags":["podcasts","genai","artificial-intelligence","ethics","cybersecurity","privacy","science","celebrity"],"cssclasses":"center-images"}
 ---
 
 

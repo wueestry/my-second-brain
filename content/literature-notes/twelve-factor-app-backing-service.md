@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Twelve Factor App Backing Service","created":"2025-10-08T00:00:00.000Z","modified":"2025-10-26T15:38:42.001+01:00","tags":["#backing-service","#network-services","#attached-resources","#twelve-factor-app","#config","#resource"],"cssclasses":"center-images"}
+{"publish":true,"title":"Twelve Factor App Backing Service","created":"2025-10-08T00:00:00.000Z","modified":"2025-11-03T20:27:08.814+01:00","tags":["backing-service","network-services","attached-resources","twelve-factor-app","config","resource"],"cssclasses":"center-images"}
 ---
 
 
@@ -15,4 +15,3 @@ Each backing service is a attached [[twelve-factor-app-resource\|resource]].
 ---
 
 ## References
-

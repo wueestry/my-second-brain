@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"A Complete Beginner's Guide to Financial Freedom","created":"2025-09-03 08:31","modified":"2025-10-01T21:17:17.303+02:00","tags":["#financial-freedom","#financial-independence","#ali-abdaal","#skill-acquisition","#4-s-framework"],"cssclasses":"center-images"}
+{"publish":true,"title":"A Complete Beginner's Guide to Financial Freedom","created":"2025-09-03 08:31","modified":"2025-11-03T20:27:08.583+01:00","tags":["financial-freedom","financial-independence","ali-abdaal","skill-acquisition","4-s-framework"],"cssclasses":"center-images"}
 ---
 
 
@@ -50,6 +50,7 @@ The video critiques traditional schooling for failing to teach essential financi
 #### Timestamp References:
 
 05:00, 06:45
+
 #### Connect to Theme:
 
 Supports the channel’s advocacy for alternative learning paths and self-directed growth.

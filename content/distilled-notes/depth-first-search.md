@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Depth-First Search","created":"2024-09-17 16:16","modified":"2025-10-01T21:17:17.306+02:00","tags":["#graph-theory","#algorithms","#programming","#science","#computer-science","#search-algorithm","#graph-traversal"],"cssclasses":"center-images"}
+{"publish":true,"title":"Depth-First Search","created":"2024-09-17 16:16","modified":"2025-11-03T20:40:40.550+01:00","tags":["computer-science/algorithms/graph-theory/depth-first-search"],"cssclasses":"center-images"}
 ---
 
 
@@ -80,6 +80,63 @@ dfs(graph, '0')
 
 ![[meta/assets/depth-first-search.gif]]
 
+## C++ Implementation
+
+```cpp
+#include <vector>
+#include <stack>
+#include <unordered_set>
+
+void dfsIterative(const vector<vector<int>>& graph, int start) {
+    stack<int> stk;
+    unordered_set<int> visited;
+
+    stk.push(start);
+
+    while (!stk.empty()) {
+        int node = stk.top();
+        stk.pop();
+
+        if (visited.find(node) == visited.end()) {
+            cout << node << " ";
+            visited.insert(node);
+
+            // Add neighbours in reverse order for correct traversal
+            for (int i = graph[node].size() - 1; i >= 0; i--) {
+                if (visited.find(graph[node][i]) == visited.end()) {
+                    stk.push(graph[node][i]);
+                }
+            }
+        }
+    }
+}
+
+void dfsRecursive(const vector<vector<int>>& graph, int node,
+                  unordered_set<int>& visited) {
+    visited.insert(node);
+    cout << node << " ";
+
+    for (int neighbour : graph[node]) {
+        if (visited.find(neighbour) == visited.end()) {
+            dfsRecursive(graph, neighbour, visited);
+        }
+    }
+}
+```
+
+## Applications
+
+- **Pathfinding**: Finding a path between two nodes
+- **Cycle detection**: Detecting cycles in directed graphs
+- **Topological sorting**: Ordering tasks with dependencies
+- **Connected components**: Finding isolated subgraphs
+- **Maze solving**: Finding paths through mazes
+- **Solving puzzles**: Sudoku, N-Queens problem
+
 ---
 
 ## References
+
+- [Depth-First Search - Wikipedia](https://en.wikipedia.org/wiki/Depth-first_search)
+- [DFS Algorithm - GeeksforGeeks](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/)
+- [Graph Traversal - Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms/graph-representation/a/representing-graphs)

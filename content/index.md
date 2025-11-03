@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"My Second Brain","created":"2025-07-28","modified":"2025-10-01T21:17:17.302+02:00","cssclasses":"center-images center-titles"}
+{"publish":true,"title":"My Second Brain","created":"2025-07-28","modified":"2025-10-30T06:40:44.544+01:00","cssclasses":"center-images center-titles"}
 ---
 
 

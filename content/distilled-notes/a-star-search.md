@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"A-Star Search","created":"2025-07-30 13:16","modified":"2025-10-01T21:17:17.307+02:00","tags":["#coding","#algorithm","#science","#graph-theory","#pathfinding","#heuristic","#artificial-intelligence"],"cssclasses":"center-images"}
+{"publish":true,"title":"A-Star Search","created":"2025-07-30 13:16","modified":"2025-11-03T20:33:24.855+01:00","tags":["computer-science/algorithms/pathfinding/a-star"],"cssclasses":"center-images"}
 ---
 
 
@@ -7,22 +7,24 @@
 
 ---
 
-$A^*$ is a search algorithm used to find the shortest path between two predefined points. It is a popular choice due to its [[completeness]], [[distilled-notes/optimality-principle\|optimality]] and optimal efficiency.
+$A^*$ is a graph search algorithm that finds the shortest path between a start and a goal node. It is widely used in robotics, games, and navigation systems due to its efficiency and ability to incorporate domain knowledge through heuristics. $A^*$ is both [[completeness\|complete]] and [[distilled-notes/optimality-principle\|optimal]] when the heuristic is admissible.
 
 ## Core Concept
 
-It combines the best aspects of two other algorithms:
+$A^*$ combines the best aspects of two algorithms:
 
-- [[distilled-notes/dijkstras-algorithm\|Dijkstra's Algorithm]]: Find shortest path to all nodes from a single source node.
-- [[best-first-search\|Gready Best-First Search]]: Prefers exploration of nodes appearing closest to goal, based on a [[distilled-notes/heuristic-function\|heuristic function]].
+- [[distilled-notes/dijkstras-algorithm\|Dijkstra's Algorithm]]: Guarantees the shortest path by exploring all nodes systematically.
+- [[best-first-search\|Greedy Best-First Search]]: Uses a [[distilled-notes/heuristic-function\|heuristic function]] to prioritise nodes that appear closest to the goal.
 
-The combination of these algorithms lead to a smart evaluation of paths using three key components: $g(n)$, $h(n)$ and $f(n)$.
+The algorithm evaluates paths using three key components:
+
+- **Path Cost** $g(n)$: The exact cost from the start node to the current node $n$.
+- **[[distilled-notes/heuristic-function\|Heuristic Function]]** $h(n)$: An estimate of the cost from node $n$ to the goal.
+- **Total Estimated Cost** $f(n) = g(n) + h(n)$: The estimated total cost of a path through $n$, used to select the next node to explore.
+
+**Admissibility**: For $A^*$ to guarantee an optimal solution, the heuristic $h(n)$ must never overestimate the true cost to reach the goal.
 
 ![[meta/assets/a-star-heuristics-concept.png]]
-
-- **Path Cost** $g(n)$: Gives the exact known distance from the start to the current node.
-- [[distilled-notes/heuristic-function\|Heuristic Function]] $h(n)$
-- **Total Estimated Cost** $f(n)$: Combination of the previous two cost functions used to determine the optimal, next node to explore.
 
 ## Algorithm
 
@@ -31,13 +33,13 @@ from heapq import heappop, heappush
 
 def a_star_search(graph: dict, start: str, goal: str, heuristic_values: dict) -> int:
     '''
-    A* search algorithm implementation.
+    Find the lowest-cost path from start to goal using the A* algorithm.
 
-    @param graph: The graph to search.
+    @param graph: The graph as an adjacency list (dict of node -> list of (neighbor, edge_cost)).
     @param start: The starting node.
     @param goal: The goal node.
-    @param heuristic_values: The heuristic values for each node. The goal node must be admissible, and the heuristic value must be 0.
-    @return: The path cost from the start node to the goal node.
+    @param heuristic_values: Heuristic values for each node (goal node must have value 0).
+    @return: The path cost from start to goal, or -1 if no path exists.
     '''
 
     open_list, closed_list = [(heuristic_values[start], start)], set()
@@ -71,9 +73,19 @@ def a_star_search(graph: dict, start: str, goal: str, heuristic_values: dict) ->
 
 ### Complexity Analysis
 
-The time complexity of the algorithm depends, heavily on the selection of the heuristic function.
-When setting $h(n) = 0$ $A^*$ is equivalent to [[distilled-notes/dijkstras-algorithm\|Dijkstra's Algorithm]] resulting in a complexity of $\mathcal{O}((|V| + |E|)\cdot log(V))$.
-A good heuristic function can drastically decrease $A^*$'s complexity.
+Time complexity depends heavily on the quality of the heuristic:
+
+- If $h(n) = 0$, $A^*$ behaves identically to [[distilled-notes/dijkstras-algorithm\|Dijkstra's Algorithm]], with complexity $\mathcal{O}((|V| + |E|) \log |V|)$.
+- A well-designed heuristic can significantly reduce the number of nodes explored.
+
+Space complexity is $\mathcal{O}(|V|)$ due to storage requirements for the open and closed lists.
+
+## Use Cases
+
+- **Video games**: NPC pathfinding and player navigation
+- **Robotics**: Autonomous robot motion planning
+- **Mapping applications**: Route planning and GPS navigation
+- **Puzzle solving**: Finding optimal solutions in state-space search
 
 ## Example
 
@@ -83,5 +95,7 @@ A good heuristic function can drastically decrease $A^*$'s complexity.
 
 ## References
 
-[[AI  Search Algorithms  A Search  Codecademy]]
-[[meta/references/The A Algorithm A Complete Guide]]
+- Hart, P. E., Nilsson, N. J., & Raphael, B. (1968). "A Formal Basis for the Heuristic Determination of Minimum Cost Paths." _IEEE Transactions on Systems Science and Cybernetics_, 4(2), 100–107.
+- [A\* search algorithm - Wikipedia](https://en.wikipedia.org/wiki/A*_search_algorithm)
+- [[AI  Search Algorithms  A Search  Codecademy]]
+- [[meta/references/The A Algorithm A Complete Guide]]

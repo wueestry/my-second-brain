@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Robotic Operating System","created":"2025-02-18 13:45","modified":"2025-10-01T21:17:17.305+02:00","tags":["#robotics","#computer-science","#embedded-systems","#algorithms","#data-structures","#programming","#ros"],"cssclasses":""}
+{"publish":true,"title":"Robotic Operating System","created":"2025-02-18 13:45","modified":"2025-11-03T20:43:24.514+01:00","tags":["computer-science/robotics/ros"],"cssclasses":""}
 ---
 
 
@@ -7,65 +7,257 @@
 
 ---
 
-The **Robotic Operating System (ROS)** is a set of software libraries and tools that help to build robot applications, providing frameworks for all aspects of robot development.
+The **Robotic Operating System (ROS)** is a set of software libraries and tools that help to build robot applications, providing frameworks for all aspects of robot development. Despite its name, ROS is not an operating system but rather a middleware framework that runs on top of Linux.
 
-## Tools
+## Core Concepts
+
+### Nodes
+
+Independent processes that perform computation. Each node is responsible for a single modular task (e.g., sensor reading, motor control, path planning).
+
+### Topics
+
+Named buses over which nodes exchange messages using a publish-subscribe pattern. Topics are asynchronous and allow many-to-many communication.
+
+### Services
+
+Synchronous request-reply communication between nodes. A service client sends a request and blocks until receiving a response.
+
+### Actions
+
+Similar to services but for long-running tasks. Provide feedback during execution and can be preempted.
+
+### Messages
+
+Data structures that define the content of topics, services, and actions (e.g., `geometry_msgs/Twist` for velocity commands).
+
+### Parameters
+
+Configuration values stored in a central parameter server that nodes can query and modify at runtime.
+
+## Essential Tools
 
 ### rviz
 
-The Robot Visualisation tool is a 3D visualiser to visualise the robot, environment and, all sensor data.
+The **Robot Visualisation** tool is a 3D visualiser to display:
+
+- Robot model (URDF)
+- Sensor data (laser scans, point clouds, cameras)
+- Planning results (paths, trajectories)
+- TF transforms (coordinate frames)
 
 ### rosbag
 
-A command line tool to record and playback ROS messages, a message protocol implemented between the different processes running simultaneously.
+Command-line tool to **record and playback** ROS messages:
+
+```bash
+# Record all topics
+rosbag record -a
+
+# Record specific topics
+rosbag record /camera/image /cmd_vel
+
+# Playback
+rosbag play my_recording.bag
+```
+
+**Use cases:**
+
+- Debugging without hardware
+- Dataset collection for machine learning
+- Regression testing
+
+### rqt
+
+Qt-based framework for GUI tools:
+
+- **rqt_graph**: Visualize node/topic connectivity
+- **rqt_plot**: Real-time data plotting
+- **rqt_console**: View log messages
+- **rqt_reconfigure**: Dynamic parameter adjustment
+
+### tf2
+
+Transform library for managing coordinate frames:
+
+- Tracks relationships between coordinate frames over time
+- Allows querying "where was the robot's left wheel relative to the camera at time t?"
 
 ## Versions
 
-### ROS1
+### ROS 1
 
-Umbrella term for the first versions of ROS. ROS1 targets C++03 and Python 2, as well as only being supported on Ubuntu.
-Due to these old build targets ROS1 is no longer actively maintained.
+**Legacy versions** (Kinetic, Melodic, Noetic):
 
-### ROS2
+- Targets C++03 and Python 2 (Noetic added Python 3)
+- Supported only on Ubuntu
+- **No longer actively maintained** (except Noetic until 2025)
 
-The current version of ROS which uses C++11 and C++14 as well as Python 3.5+.
+**Architecture:**
 
-### Differences
+- Centralized `roscore` master node
+- TCP/IP communication (TCPROS, UDPROS)
+- Custom serialization
 
-#### Middleware Update
+### ROS 2
 
-- **ROS 1** relied on a centralized hub (rosmaster) for node communication, which could be a single point of failure.
-- **ROS 2** adopts DDS (Data Distribution Service), a standard middleware offering better efficiency and scalability, ideal
-  for large-scale systems.
+**Current generation** (Foxy, Humble, Iron, Jazzy):
 
-#### Communication Model
+- C++14/17 and Python 3.6+
+- Cross-platform (Linux, Windows, macOS)
+- **Long-term support** releases every 2 years
 
-- **ROS 1** used topics, services, and actions via rosmaster, which sometimes led to bottlenecks.
-- **ROS 2** employs a publish/subscribe model through DDS, eliminating the central hub and enhancing efficiency and
-  scalability.
+**Architecture:**
 
-#### Real-Time Capabilities
+- No centralized master (peer-to-peer)
+- DDS middleware (multiple vendors: Fast-DDS, Cyclone DDS)
+- Standard serialization (CDR)
 
-- **ROS 1** had limited real-time support, suitable for prototyping but not critical applications.
-- **ROS 2** excels in real-time operations, making it ideal for autonomous vehicles and drones where quick reactions are
-  essential.
+## ROS 1 vs ROS 2 Comparison
 
-#### Modular Architecture
+| Feature          | ROS 1                       | ROS 2                                        |
+| ---------------- | --------------------------- | -------------------------------------------- |
+| **Master node**  | Required (`roscore`)        | None (decentralized)                         |
+| **Middleware**   | Custom (TCPROS)             | DDS (standard)                               |
+| **Real-time**    | Limited                     | Full support with RCLCPP                     |
+| **QoS policies** | None                        | Configurable (reliability, durability, etc.) |
+| **Security**     | Minimal                     | Built-in (SROS2 with encryption)             |
+| **Multi-robot**  | Difficult (namespace hacks) | Native support                               |
+| **Platforms**    | Linux only                  | Linux, Windows, macOS, embedded              |
+| **Build system** | catkin                      | colcon + ament                               |
+| **Python**       | 2.7 / 3.x                   | 3.6+ only                                    |
+| **Lifecycle**    | None                        | Managed nodes with states                    |
 
-- **ROS 2** features a more modular design, allowing components to operate independently, which boosts system robustness and
-  scalability.
+## Python Example: Simple Publisher/Subscriber
 
-#### Quality of Service (QoS)
+### ROS 2 Publisher
 
-- **ROS 1** had limited QoS options.
-- **ROS 2** supports various QoS policies (reliability, latency control), enabling tailored communication needs for different
-  applications.
+```python
+import rclpy
+from rclpy.node import Node
+from std_msgs.msg import String
 
-#### Hardware Support
+class MinimalPublisher(Node):
+    def __init__(self):
+        super().__init__('minimal_publisher')
+        self.publisher_ = self.create_publisher(String, 'topic', 10)
+        self.timer = self.create_timer(1.0, self.timer_callback)
+        self.i = 0
 
-- **ROS 2** enhances support for micro-controllers and embedded systems, expanding its use in resource-constrained
-  environments.
+    def timer_callback(self):
+        msg = String()
+        msg.data = f'Hello ROS 2: {self.i}'
+        self.publisher_.publish(msg)
+        self.get_logger().info(f'Publishing: "{msg.data}"')
+        self.i += 1
+
+def main(args=None):
+    rclpy.init(args=args)
+    node = MinimalPublisher()
+    rclpy.spin(node)
+    node.destroy_node()
+    rclpy.shutdown()
+
+if __name__ == '__main__':
+    main()
+```
+
+### ROS 2 Subscriber
+
+```python
+import rclpy
+from rclpy.node import Node
+from std_msgs.msg import String
+
+class MinimalSubscriber(Node):
+    def __init__(self):
+        super().__init__('minimal_subscriber')
+        self.subscription = self.create_subscription(
+            String,
+            'topic',
+            self.listener_callback,
+            10)
+
+    def listener_callback(self, msg):
+        self.get_logger().info(f'I heard: "{msg.data}"')
+
+def main(args=None):
+    rclpy.init(args=args)
+    node = MinimalSubscriber()
+    rclpy.spin(node)
+    node.destroy_node()
+    rclpy.shutdown()
+
+if __name__ == '__main__':
+    main()
+```
+
+## Common ROS Commands
+
+```bash
+# ROS 2 commands
+ros2 node list                    # List running nodes
+ros2 topic list                   # List active topics
+ros2 topic echo /topic_name       # Display messages on topic
+ros2 topic pub /cmd_vel ...       # Publish to topic
+ros2 service list                 # List available services
+ros2 service call /service_name   # Call a service
+ros2 run package_name node_name   # Run a node
+ros2 launch package_name file.py  # Launch multiple nodes
+
+# ROS 1 equivalents (different syntax)
+rosnode list
+rostopic list
+rostopic echo /topic_name
+rosservice list
+rosrun package_name node_name
+roslaunch package_name file.launch
+```
+
+## Popular ROS Packages
+
+### Navigation
+
+- **Nav2** (ROS 2): Complete navigation stack with planners, controllers, recovery behaviours
+- **SLAM Toolbox**: 2D SLAM with loop closure
+- **Cartographer**: Google's SLAM for 2D and 3D mapping
+
+### Manipulation
+
+- **MoveIt 2**: Motion planning framework for robot arms
+- **Gazebo**: Physics simulator for robot testing
+
+### Perception
+
+- **vision_opencv**: OpenCV integration for image processing
+- **pcl_ros**: Point Cloud Library integration
+- **image_pipeline**: Camera calibration and rectification
+
+### Hardware Interfaces
+
+- **ros2_control**: Hardware abstraction layer for actuators and sensors
+- **micro-ROS**: ROS 2 for microcontrollers (ESP32, STM32)
+
+## Advantages
+
+- **Modular architecture**: Loose coupling between components
+- **Language agnostic**: C++, Python, and others
+- **Rich ecosystem**: Thousands of packages available
+- **Simulation support**: Gazebo, Isaac Sim integration
+- **Active community**: Extensive documentation and support
+
+## Disadvantages
+
+- **Steep learning curve**: Complex build system and concepts
+- **Overhead**: Not suitable for hard real-time systems (< 1ms)
+- **Dependency management**: Can be fragile
+- **Version fragmentation**: ROS 1 vs ROS 2 split
 
 ---
 
 ## References
+
+- [ROS 2 Documentation](https://docs.ros.org/en/humble/)
+- [ROS 2 Design Overview](https://design.ros2.org/)
+- [Programming Robots with ROS - Book by Morgan Quigley](https://www.oreilly.com/library/view/programming-robots-with/9781449325480/)
+- [ROS 2 Migration Guide](https://docs.ros.org/en/humble/How-To-Guides/Migrating-from-ROS1.html)
